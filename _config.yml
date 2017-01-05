@@ -1,0 +1,30 @@
+title: GDG Android Bolivia | Blog
+avatar-img: img/icono_gdg.png
+avatar-img2: img/icono_gdg2.png
+avatar-logo: img/logo_gdg.png
+header-img: img/home-bg.jpg
+email: lizarraga.gux@gmail.com
+copyright_name: Gustavo Lizárraga
+description: "Página principal del Google Developer Group Android Bolivia, en el cual encontrarás todo acerca de nosotros."
+baseurl: ""
+url: ""
+twitter_username: GDGAndroidBo
+github_username:  GDGAndroidBolivia
+facebook_username:  GDG.AndroidBo
+google_plus_username: +AndroidboliviaOrg
+email_username:  info@androidbolivia.com
+youtube_username:  AndroidboliviaOrg
+
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
