@@ -2,6 +2,7 @@
 published: false
 ---
 ---
+published: 	true
 layout:     post
 title:      "Prueba Prose.io"
 subtitle:   "Prueba de creacion de post a traves de Prose.io"
