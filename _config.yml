@@ -7,7 +7,7 @@ email: lizarraga.gux@gmail.com
 copyright_name: Gustavo Lizárraga
 description: "Página principal del Google Developer Group Android Bolivia, en el cual encontrarás todo acerca de nosotros."
 baseurl: "https://gdgandroidbolivia.github.io"
-url: "https://gdgandroidbolivia.github.io"
+url: "/"
 #baseurl: ""
 #url: ""
 twitter_username: GDGAndroidBo
