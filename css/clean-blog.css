@@ -64,6 +64,68 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
+.img-effect {
+  -webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;
+}
+.img-effect:hover {
+  -webkit-transform: rotate(-3deg);
+     -moz-transform: rotate(-3deg);
+       -o-transform: rotate(-3deg);
+      -ms-transform: rotate(-3deg);
+          transform: rotate(-3deg);
+}
+.gallery-title {
+  text-align: center; 
+  margin-top: 10px;
+}
+.gallery-subtitle {
+  font-weight: 100; 
+  font-size: 0.7em; 
+  margin: 10px; 
+  text-align: center;
+}
+.gallery-comment {
+  margin: 10px; 
+  text-align: right;
+}
+
+.pic {
+  background: #eee;
+  border: 10px solid #eee;
+  border-radius: 10px; 
+  text-decoration: none; 
+  float: left;
+  height: auto;
+  width: auto;
+  margin: 20px;
+  overflow: hidden;
+  box-shadow: 3px 3px 3px #878787;
+}
+.image {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.image:hover {
+    -webkit-filter: blur(3px);
+}
+.fila {
+  width: 50%;
+  background:#FFF;
+}
+.fila:hover {
+  background:#FFF;
+}
+.ahref {
+  text-decoration:none
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
