@@ -9,15 +9,8 @@ header-img: "img/galeria-bg.jpg"
 	<p>Galeria de imagenes de las distintas actividades que realiza el GDG Android Bolivia</p>
 
 	<div class="row" align="center">
-  		{% assign count = 1 %}
-		{% assign pos = 0 %}
-
 		{% for galeria in site.data.galeria %}
-			{% assign pos = count | modulo: 2 %}
-			{% if pos == 0 %}
-				<div class="col-sm-5">{{ galeria.img-title }}</div>
-			{% endif %}
-			{% assign count = count | plus: 1 %}
+			<div class="col-sm-5">{{ galeria.img-title }}</div>
 		{% endfor %}
 	</div>
 </center>
