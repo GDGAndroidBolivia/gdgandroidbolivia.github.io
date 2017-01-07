@@ -5,13 +5,42 @@ description: "Fotografias de algunos eventos del GDG Android Bolivia"
 header-img: "img/galeria-bg.jpg"
 ---
 <center>
-	<h1>
-		Galeria de fotografías
-	</h1>	
+	<h1>{{ page.title }}</h1>	
+	<p>Galeria de imagenes de las distintas actividades que realiza el GDG Android Bolivia</p>
+
+	<table border="0" style="background: #FFF; table-layout: fixed;">
+		{% assign count = 1 %}
+		{% assign pos = 0 %}
+
+		{% for galeria in site.data.galeria %}
+			{% assign pos = count | modulo: 2 %}
+			{% if pos == 0 %}
+				<td class="fila">		
+					<a class="ahref" href="{{ galeria.img-gallery }}" target="_blank">
+						<div class="img-effect pic">
+							<img class="image" src="{{ galeria.img-preview }}"/>
+							<h3 class="gallery-title">{{ galeria.img-title }}</h3>
+							<h4 class="gallery-subtitle">{{ galeria.img-description }}</h4>
+							<h5 class="gallery-comment">{{ galeria.img-comment }}</h5>
+						</div>
+					</a>
+				</td>
+				</tr>
+			{% else %}
+				<tr>
+				<td class="fila">		
+					<a class="ahref" href="{{ galeria.img-gallery }}" target="_blank">
+						<div class="img-effect pic">
+							<img class="image" src="{{ galeria.img-preview }}"/>
+							<h3 class="gallery-title">{{ galeria.img-title }}</h3>
+							<h4 class="gallery-subtitle">{{ galeria.img-description }}</h4>
+							<h5 class="gallery-comment">{{ galeria.img-comment }}</h5>
+						</div>
+					</a>
+				</td>
+			{% endif %}
+			{% assign count = count | plus: 1 %}
+		{% endfor %}		
+	</table>
 </center>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
