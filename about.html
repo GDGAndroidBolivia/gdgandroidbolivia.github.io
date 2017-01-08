@@ -20,6 +20,9 @@ header-img: "img/acercade-bg.jpg"
 	En nuestros eventos vemos distintos temas de interés general como: <br/><br/>
 	<ul>
 		<li>
+			Desarrollo de aplicaciones Android en distintos niveles.
+		</li>
+		<li>
 			Integración con distintas APIs de Google.
 		</li>
 		<li>
@@ -38,10 +41,7 @@ header-img: "img/acercade-bg.jpg"
 			Integración con dispositivos externos (IoT).
 		</li>
 		<li>
-			Instalación de ROMs.
-		</li>
-		<li>
-			Top aplicaciones.
+			ROMs y muchas herramientas para usuarios.
 		</li>
 		<li>
 			Capacitación a usuarios en general de aplicaciones indispensables.
@@ -50,5 +50,66 @@ header-img: "img/acercade-bg.jpg"
 			Y muchos otros temas.
 		</li>	
 	</ul>
-	<br/>El <b>GDG Android Bolivia</b> esta abierto a desarrolladores, diseñadores, profesionales, estudiantes y toda persona interesada en la plataforma Android; los invitamos a ser parte del mismo para crecer en conocimiento, crecer como personas, como profesionales y como innovadores en nuestro país <b>Bolivia</b>.
+	<br/>El <b>GDG Android Bolivia</b> esta abierto a desarrolladores, diseñadores, profesionales, estudiantes y toda persona interesada en la plataforma Android; los invitamos a ser parte del mismo para crecer en conocimiento, crecer como personas, como profesionales y como innovadores en nuestro país <b>Bolivia</b>.<br/><br/>
+
+	<h2>El Equipo</h2>
+	<p>El equipo de la gestion 2017 esta conformado por personas apasionadas por esta tecnologia que ponen mucho esfuerzo, tiempo y constancia en todas las actividades que realizan:</p>
+
+	<div class="row" style="width: 100%">
+		{% for equipo in site.data.equipo %}
+			<div class="col-sm-4">
+					<div class="img-profile-effect">
+						<center>
+							<img class="image-member" src="{{ equipo.member-profile }}"/>
+						</center>
+						<h3 class="profile-title">{{ equipo.member-name }}</h3>
+						<h4 class="profile-subtitle">{{ equipo.member-job }}</h4>
+						<table>
+							<tr>
+								<td>
+									<a href="https://www.facebook.com/{{ equipo.social-fb }}" target="_blank">
+			                            <span class="fa-stack btn-xs small">
+			                                <i class="fa fa-circle fa-stack-2x"></i>
+			                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+			                            </span>
+                        			</a>
+								</td>
+								<td>
+									<a href="https://twitter.com/{{ equipo.social-tw }}" target="_blank">
+			                            <span class="fa-stack btn-xs small">
+			                                <i class="fa fa-circle fa-stack-2x"></i>
+			                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+			                            </span>
+                        			</a>
+								</td>
+								<td>
+									<a href="https://plus.google.com/+{{ equipo.social-gp }}" target="_blank">
+			                            <span class="fa-stack btn-xs small">
+			                                <i class="fa fa-circle fa-stack-2x"></i>
+			                                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+			                            </span>
+                        			</a>
+								</td>
+								<td>
+									<a href="https://github.com/{{ equipo.social-gh }}" target="_blank">
+			                            <span class="fa-stack btn-xs small">
+			                                <i class="fa fa-circle fa-stack-2x icon-resize-small"></i>
+			                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+			                            </span>
+                        			</a>
+								</td>
+								<td>
+									<a href="mailto:{{ equipo.social-gm }}">
+			                            <span class="fa-stack btn-xs small">
+			                                <i class="fa fa-circle fa-stack-2x"></i>
+			                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+			                            </span>
+                        			</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+			</div>
+		{% endfor %}
+	</div>
 </span>
