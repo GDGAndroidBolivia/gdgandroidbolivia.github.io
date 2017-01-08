@@ -72,6 +72,13 @@ hr.small {
           transition: all 0.8s ease;
 }
 .img-effect:hover {
+  color: #4CAF50;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.8), 0px 5px 20px 0px rgba(0, 0, 0, 0.19);
   -webkit-transform: rotate(-3deg);
      -moz-transform: rotate(-3deg);
        -o-transform: rotate(-3deg);
@@ -81,29 +88,36 @@ hr.small {
 .gallery-title {
   text-align: center; 
   margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .gallery-subtitle {
   font-weight: 100; 
   font-size: 0.7em; 
-  margin: 10px; 
+  margin-right: 10px;
+  margin-left: 10px; 
   text-align: center;
 }
 .gallery-comment {
-  margin: 10px; 
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 15px;
   text-align: right;
 }
 
 .pic {
-  background: #eee;
-  border: 10px solid #eee;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background: #f9f9f9;
   border-radius: 10px; 
+  text-decoration: none;
+  border-radius: 5px; 
   text-decoration: none; 
   float: left;
   height: auto;
   width: auto;
   margin: 20px;
   overflow: hidden;
-  box-shadow: 3px 3px 3px #878787;
 }
 .image {
   max-width: 100%;
@@ -119,15 +133,72 @@ hr.small {
 .image:hover {
     -webkit-filter: blur(3px);
 }
-.fila {
-  width: 50%;
-  background:#FFF;
-}
-.fila:hover {
-  background:#FFF;
-}
 .ahref {
   text-decoration:none
+}
+
+
+
+.img-profile-effect {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  width: 230px;
+  height: auto;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 10px; 
+  text-decoration: none; 
+  float: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  padding-top: 10px;
+  margin: 10px;
+  overflow: hidden;
+}
+.img-profile-effect:hover {
+  color: #4CAF50;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.8), 0px 5px 20px 0px rgba(0, 0, 0, 0.19);
+}
+.profile-title {
+  font-size: 1em;
+  text-align: center; 
+  margin-top: 10px;
+}
+.profile-subtitle {
+  font-weight: 100; 
+  font-size: 0.7em; 
+  margin: 10px; 
+  text-align: center;
+}
+
+.image-member{
+  width: 120px;
+  height: 120px;
+  margin: 20px;
+  border-radius: 150px;
+  border:3px solid #eee;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.text-body {
+  font-weight: 100; 
+  font-size: 1.1em; 
+  margin: 0px; 
+  text-align: justify;
 }
 
 @media only screen and (min-width: 768px) {
@@ -338,7 +409,8 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-size: 14px;
+  font-size: 0.7em;
+  font-weight: 100;
   text-align: center;
   margin-bottom: 0;
 }
