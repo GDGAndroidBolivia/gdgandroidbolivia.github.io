@@ -3,15 +3,40 @@ layout: page
 title: "Tienda"
 description: "¿Quieres ayudarnos comprando un souvenir?"
 header-img: "img/tienda-bg.jpg"
+jsarr:
+     - _includes/jscript.js
 ---
 <center>
 	<h1>
 		Articulos a la venta
 	</h1>	
 </center>
+<center>
+	<h1>{{ page.title }}</h1>	
+	<h4 class="text-body">Ayudanos comprando un souvenir</h4>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+	<div class="row" style="width: 100%">
+		{% for producto in site.data.tienda %}
+			<div class="col-sm-6">
+				<a class="ahref" href="#" target="_blank">
+					<div class="img-store-effect pic-store">
+						<div class="flip-container">
+						      <div class="{{ producto.product-front-t }}">
+						        <img src="{{ producto.product-front }}" alt="">
+						      </div>
+						      <div class="{{ producto.product-back-t }}">
+						        <img src="{{ producto.product-back }}" alt="">
+						      </div>
+						</div>
+						<a href="#" class="btn-round"><span>+</span></a>
+						<h3 class="gallery-title">{{ producto.product-name }}</h3>
+						<h4 class="gallery-subtitle">{{ producto.product-desc }}</h4>
+						<h5 class="gallery-comment">{{ producto.product-price }}</h5>
+					</div>
+				</a>
+			</div>
+		{% endfor %}
+	</div>
+</center>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
+                 
