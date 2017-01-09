@@ -1,0 +1,23 @@
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Taza Android Camp (Dia)'
+  product-desc: 'Taza con disenio de noche del Android Camp'
+  product-price: Bs. 20
+  product-front-t: front4
+  product-back-t: back4
+
+- product-front: ../img/moneda-front.jpg
+  product-back: ../img/moneda-back.jpg
+  product-name: 'Taza Android Camp (Dia)'
+  product-desc: 'Taza con disenio de noche del Android Camp'
+  product-price: Bs. 20
+  product-front-t: front2
+  product-back-t: back2
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Taza Android Camp (Dia)'
+  product-desc: 'Taza con disenio de noche del Android Camp'
+  product-price: Bs. 20
+  product-front-t: front5
+  product-back-t: back5
