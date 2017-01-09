@@ -119,6 +119,7 @@ hr.small {
   margin: 20px;
   overflow: hidden;
 }
+
 .image {
   max-width: 100%;
   max-height: 100%;
@@ -134,6 +135,9 @@ hr.small {
     -webkit-filter: blur(3px);
 }
 .ahref {
+  text-decoration:none
+}
+.ahref:hover {
   text-decoration:none
 }
 
@@ -193,6 +197,429 @@ hr.small {
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+
+
+.image-store {
+  max-width: 100px;
+  max-height: 100px;
+  width: 100px;
+  height: 400px;
+}
+
+.img-store-effect {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  width: auto;
+  height: 20em;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 10px; 
+  text-decoration: none; 
+  float: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  padding-top: 10px;
+  margin: 10px;
+  overflow: hidden;
+}
+.img-store-effect:hover {
+  color: #4CAF50;
+  text-decoration: none;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.8), 0px 5px 20px 0px rgba(0, 0, 0, 0.19);
+}
+.pic-store {
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 10px; 
+  text-decoration: none;
+  border-radius: 5px; 
+  text-decoration: none; 
+  float: center;
+  height: 470px;
+  width: auto;
+  margin: 20px;
+  bottom: 10px;
+}
+
+/**
+////////////////////////////////////////////////////////////////////////////////////////////
+
+*/
+
+.btn-round {
+  background-color: #d23f31;
+  border-radius: 999em;
+  width: 56px;
+  height: 56px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  line-height: 1;
+  font-size: 36px;
+  position: absolute;
+  cursor: pointer;
+  display: inherit;
+  right: 2em;
+  bottom: 4.2em;
+}
+
+.btn-round:hover {
+  background-color: #eee;
+}
+
+
+.btn-round span {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  margin-top: -22px;
+  color: #FFF;
+}
+
+.green { background-color: #57A429; }
+.blue { background-color: #38818F;}
+.orange { background-color: #D28031; }
+
+
+/**
+***********************************************************************************
+
+*/
+
+
+/**
+DESDE ACA
+*/
+
+.card2 {
+  width: 100px;
+  height: 100px;
+  img {
+    width: 100%;
+  }
+}
+
+/* Flip animation container, keeps perspective */
+.flip-container {
+  width: 100%;
+  height: 16em;
+  text-decoration: none;
+  -webkit-perspective: 1000;
+  -moz-perspective: 1000;
+  -ms-perspective: 1000;
+  perspective: 1000;
+}
+
+/* Set animation variables */
+.front1, .back1 {
+  -webkit-animation-duration: 15s;
+  -moz-animation-duration: 15s;
+  -ms-animation-duration: 15s;
+  animation-duration: 2s;
+
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -ms-animation-timing-function: ease;
+  animation-timing-function: ease;
+
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.front2, .back2 {
+  -webkit-animation-duration: 15s;
+  -moz-animation-duration: 15s;
+  -ms-animation-duration: 15s;
+  animation-duration: 3s;
+
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -ms-animation-timing-function: ease;
+  animation-timing-function: ease;
+
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+.front3, .back3 {
+  -webkit-animation-duration: 15s;
+  -moz-animation-duration: 15s;
+  -ms-animation-duration: 15s;
+  animation-duration: 4s;
+
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -ms-animation-timing-function: ease;
+  animation-timing-function: ease;
+
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.front4, .back4 {
+  -webkit-animation-duration: 15s;
+  -moz-animation-duration: 15s;
+  -ms-animation-duration: 15s;
+  animation-duration: 5s;
+
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -ms-animation-timing-function: ease;
+  animation-timing-function: ease;
+
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+.front5, .back5 {
+  -webkit-animation-duration: 15s;
+  -moz-animation-duration: 15s;
+  -ms-animation-duration: 15s;
+  animation-duration: 6s;
+
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  -ms-animation-timing-function: ease;
+  animation-timing-function: ease;
+
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -ms-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+/* Call the animations for each side of the card */
+.front1, .fron2, .front3, .front4, .front5 {
+  -webkit-animation-name: cardFlipFront;
+  -moz-animation-name: cardFlipFront;
+  -ms-animation-name: cardFlipFront;
+  animation-name: cardFlipFront;
+}
+.back1,.back2, .back3, .back4, .back5{
+  -webkit-animation-name: cardFlipBack;
+  -moz-animation-name: cardFlipBack;
+  -ms-animation-name: cardFlipBack;
+  animation-name: cardFlipBack;
+}
+
+/* We have two seperate @keyframe animations for each side of the card so we can get this working in IE */
+
+/* This one animates the front card */
+@keyframes cardFlipFront {
+  0% {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  22.5% {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  27.5% {
+    -moz-transform: rotateY(180deg);
+    -ms-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+  72.5% {
+    -moz-transform: rotateY(180deg);
+    -ms-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+  77.5% {
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  100% {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+}
+
+/* This one animates the front card in webkit */
+@-webkit-keyframes cardFlipFront {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  22.5% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  27.5% {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+  72.5% {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+  77.5% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  100% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+}
+
+/* This one animates the back card */
+@keyframes cardFlipBack {
+  0% {
+    -moz-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  22.5% {
+    -moz-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  27.5% {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  72.5% {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  77.5% {
+    -moz-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  100% {
+    -moz-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+}
+
+/* This one animates the back card in webkit */
+@-webkit-keyframes cardFlipBack {
+  0% {
+    -webkit-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  22.5% {
+    -webkit-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  27.5% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  72.5% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  77.5% {
+    -webkit-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+  100% {
+    -webkit-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+}
+
+/* Hide back of card during swap */
+.front1, .back1, .front2, .back2, .front3, .back3, .front4, .back4, .front5, .back5{
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* The back, initially hidden, card */
+.back1, .back2, .back3, .back4, .back5{
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+
+/**
+HASTA ACA
+**/
 
 .text-body {
   font-weight: 100; 
