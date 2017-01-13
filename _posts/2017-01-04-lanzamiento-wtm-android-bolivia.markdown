@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Lanzamiento Women Techmakers Android Bolivia"
+title:      "Lanzamiento Actividades GDG Android Bolivia"
 date:       2017-01-04 12:00:00
 author:     "GDG Android Bolivia"
 header-img: "img/post_02.jpg"
