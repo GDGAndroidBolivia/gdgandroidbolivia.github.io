@@ -6,6 +6,10 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
+        <!--<table border="0">
+            <td>{{ post.date }}</td>
+            <td></td>
+        </table>-->
         <h2 class="post-title">            
             {{ post.title }}
         </h2>
@@ -14,10 +18,10 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
             {{ post.subtitle }}
         </h3>
         {% endif %}
+        <h5 class="text-post-date">Publicado por <b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ post.date | date: "%-d/%m/%Y" }}</h5>
     </a>
-    <p class="post-meta">Publicado por <b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ post.date | date: "%-d/%m/%Y" }}</p>
 </div>
-<hr>
+<hr style="border-width: 1px; border-color: #86cc89">
 {% endfor %}
 
 <!-- Pager -->
