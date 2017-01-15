@@ -210,7 +210,7 @@ hr.small {
   overflow: hidden;
   margin: 0px;
   padding: 0px;
-  bottom: 1em;
+  margin-bottom: 1em;
   position: relative;
 }
 
