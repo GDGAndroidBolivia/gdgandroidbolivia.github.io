@@ -3,13 +3,14 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-01 12:00:00
+date:       2017-01-15 12:00:00
 title:      "Post prueba"
 subtitle:   "Esta es una prueba de post para el Blog del GDG"
 author:     "Gustavo Lizarraga"
 author_pic: http://image.flaticon.com/icons/svg/194/194935.svg
 bio:        "UI/UX Designer, Fron-end & Mobile Dev"
 quote:      "Aca escribimos la informacion del Post"
+description:"Aca escribimos la informacion del Post Desc"
 image:      "img/post_01.jpg"
 url:        "img/post_01.jpg"
 fb_user:    Gusn8
