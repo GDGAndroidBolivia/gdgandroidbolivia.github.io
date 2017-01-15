@@ -198,44 +198,6 @@ hr.small {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-
-.image-store {
-  max-width: 100px;
-  max-height: 100px;
-  width: 100px;
-  height: 400px;
-}
-
-.img-store-effect {
-  -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
-  width: auto;
-  height: 20em;
-  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
-  text-align: center;
-  background: #f9f9f9;
-  text-decoration: none; 
-  float: center;
-  padding-right: 10px;
-  padding-left: 10px;
-  padding-bottom: 0px;
-  padding-top: 10px;
-  margin: 10px;
-  overflow: hidden;
-}
-.img-store-effect:hover {
-  color: #4CAF50;
-  text-decoration: none;
-  -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
-  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.8), 0px 5px 20px 0px rgba(0, 0, 0, 0.19);
-}
 .pic-store {
   box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 5px 5px 0px rgba(0, 0, 0, 0.19);
   text-align: center;
@@ -248,348 +210,166 @@ hr.small {
   overflow: hidden;
   margin: 0px;
   padding: 0px;
+  position: relative;
 }
 
-/**
-////////////////////////////////////////////////////////////////////////////////////////////
-
-*/
-
-/**
-***********************************************************************************
-
-*/
-
-
-/**
-DESDE ACA
-*/
-
-.card2 {
-  width: 100px;
-  height: 100px;
-  img {
-    width: 100%;
-  }
+.img-effect-store {
+  -webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;
+}
+.img-effect-store:hover {
+  color: #4CAF50;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.8), 0px 5px 20px 0px rgba(0, 0, 0, 0.19);
+}
+.image-store {
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
+  height: 100%;
+}
+.image-store:hover {
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
-/* Flip animation container, keeps perspective */
+.store-title {
+  text-align: center; 
+  margin-top: 1em;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.store-subtitle {
+  font-weight: 100; 
+  font-size: 0.8em; 
+  margin-right: 0.8em;
+  margin-left: 0.8em; 
+  text-align: center;
+}
+.store-price {
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  text-align: right;
+  font-size: 1.2em;
+}
+
+.store-button {
+  width: 100%;
+  height: 2em;
+  background-color: #86cc89;
+  color: #b9eabb;
+  border-radius: 2px;
+  text-align: center center;
+  padding-top: 0.2em;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.store-button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    text-decoration: none;
+}
+
+/*
+****************************************************************
+*/
 .flip-container {
-  width: auto;
-  height: 17em;
-  text-decoration: none;
   -webkit-perspective: 1000;
   -moz-perspective: 1000;
-  -ms-perspective: 1000;
+  -o-perspective: 1000;
   perspective: 1000;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  border: 0px solid #ccc;
+  width: 16em;
+  height: 16em;
 }
 
-/* Set animation variables */
-.front1, .back1 {
-  -webkit-animation-duration: 15s;
-  -moz-animation-duration: 15s;
-  -ms-animation-duration: 15s;
-  animation-duration: 2s;
+.flip-container:hover .flipper,  
+.flip-container.hover .flipper {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  background-color: #e00;
+}
 
+.flip-container, .front, .back {
+  width: 16em;
+  height: 15em;
+}
+
+.flipper {
+  top: 0.5em;
+  -webkit-transition: 0.6s;
   -webkit-transform-style: preserve-3d;
+
+  -moz-transition: 0.6s;
   -moz-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
+  
+  -o-transition: 0.6s;
+  -o-transform-style: preserve-3d;
+
+  transition: 0.6s;
   transform-style: preserve-3d;
 
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: ease;
-  -moz-animation-timing-function: ease;
-  -ms-animation-timing-function: ease;
-  animation-timing-function: ease;
-
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  -ms-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
+  position: relative;
 }
 
-.front2, .back2 {
-  -webkit-animation-duration: 15s;
-  -moz-animation-duration: 15s;
-  -ms-animation-duration: 15s;
-  animation-duration: 3s;
-
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: ease;
-  -moz-animation-timing-function: ease;
-  -ms-animation-timing-function: ease;
-  animation-timing-function: ease;
-
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  -ms-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-.front3, .back3 {
-  -webkit-animation-duration: 15s;
-  -moz-animation-duration: 15s;
-  -ms-animation-duration: 15s;
-  animation-duration: 4s;
-
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: ease;
-  -moz-animation-timing-function: ease;
-  -ms-animation-timing-function: ease;
-  animation-timing-function: ease;
-
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  -ms-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-
-.front4, .back4 {
-  -webkit-animation-duration: 15s;
-  -moz-animation-duration: 15s;
-  -ms-animation-duration: 15s;
-  animation-duration: 5s;
-
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: ease;
-  -moz-animation-timing-function: ease;
-  -ms-animation-timing-function: ease;
-  animation-timing-function: ease;
-
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  -ms-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-
-.front5, .back5 {
-  -webkit-animation-duration: 15s;
-  -moz-animation-duration: 15s;
-  -ms-animation-duration: 15s;
-  animation-duration: 6s;
-
-  -webkit-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-
-  -webkit-animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -ms-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-
-  -webkit-animation-timing-function: ease;
-  -moz-animation-timing-function: ease;
-  -ms-animation-timing-function: ease;
-  animation-timing-function: ease;
-
-  -webkit-animation-fill-mode: forwards;
-  -moz-animation-fill-mode: forwards;
-  -ms-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-
-/* Call the animations for each side of the card */
-.front1, .fron2, .front3, .front4, .front5 {
-  -webkit-animation-name: cardFlipFront;
-  -moz-animation-name: cardFlipFront;
-  -ms-animation-name: cardFlipFront;
-  animation-name: cardFlipFront;
-}
-.back1,.back2, .back3, .back4, .back5{
-  -webkit-animation-name: cardFlipBack;
-  -moz-animation-name: cardFlipBack;
-  -ms-animation-name: cardFlipBack;
-  animation-name: cardFlipBack;
-}
-
-/* We have two seperate @keyframe animations for each side of the card so we can get this working in IE */
-
-/* This one animates the front card */
-@keyframes cardFlipFront {
-  0% {
-    -moz-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  22.5% {
-    -moz-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  27.5% {
-    -moz-transform: rotateY(180deg);
-    -ms-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-  }
-  72.5% {
-    -moz-transform: rotateY(180deg);
-    -ms-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-  }
-  77.5% {
-    -moz-transform: rotateY(0deg);
-    -o-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  100% {
-    -moz-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-}
-
-/* This one animates the front card in webkit */
-@-webkit-keyframes cardFlipFront {
-  0% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  22.5% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  27.5% {
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-  }
-  72.5% {
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-  }
-  77.5% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  100% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-}
-
-/* This one animates the back card */
-@keyframes cardFlipBack {
-  0% {
-    -moz-transform: rotateY(-180deg);
-    -ms-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  22.5% {
-    -moz-transform: rotateY(-180deg);
-    -ms-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  27.5% {
-    -moz-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  72.5% {
-    -moz-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  77.5% {
-    -moz-transform: rotateY(-180deg);
-    -ms-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  100% {
-    -moz-transform: rotateY(-180deg);
-    -ms-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-}
-
-/* This one animates the back card in webkit */
-@-webkit-keyframes cardFlipBack {
-  0% {
-    -webkit-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  22.5% {
-    -webkit-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  27.5% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  72.5% {
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-  }
-  77.5% {
-    -webkit-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-  100% {
-    -webkit-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-  }
-}
-
-/* Hide back of card during swap */
-.front1, .back1, .front2, .back2, .front3, .back3, .front4, .back4, .front5, .back5{
+.front, .back {
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
   backface-visibility: hidden;
+  border-radius: 10px; 
   position: absolute;
-  width: auto;
-  height: auto;
   top: 0;
+  bottom: 0;
   left: 0;
 }
 
-/* The back, initially hidden, card */
-.back1, .back2, .back3, .back4, .back5{
-  -webkit-transform: rotateY(-180deg);
-  -moz-transform: rotateY(-180deg);
-  -ms-transform: rotateY(-180deg);
-  transform: rotateY(-180deg);
+.front {
+  z-index: 2;
 }
 
-/**
-HASTA ACA
-**/
+.back {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  background: #f8f8f8;
+}
+
+/*
+****************************************************************
+*/
+
 
 .text-body {
   font-weight: 100; 
   font-size: 1.1em; 
   margin: 0px; 
   text-align: justify;
+}
+
+.text-comprar {
+  font-weight: 100; 
+  font-size: 1.1em; 
+  margin: 0px; 
+  text-align: center center;
 }
 
 @media only screen and (min-width: 768px) {
