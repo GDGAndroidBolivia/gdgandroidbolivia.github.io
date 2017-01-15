@@ -291,12 +291,10 @@ hr.small {
   -o-perspective: 1000;
   perspective: 1000;
   margin-top: 0.5em;
-  margin-left: 0.5em;
+  margin-left: 0em;
   margin-right: 0.5em;
   margin-bottom: 0.5em;
   border: 0px solid #ccc;
-  width: 16em;
-  height: 16em;
 }
 
 .flip-container:hover .flipper,  
@@ -309,7 +307,7 @@ hr.small {
 }
 
 .flip-container, .front, .back {
-  width: 16em;
+  width: 100%;
   height: 15em;
 }
 
