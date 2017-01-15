@@ -8,7 +8,9 @@ author:     "Gustavo Lizarraga"
 header-img: "img/post_01.jpg"
 comments:   true
 author_pic: http://image.flaticon.com/icons/svg/194/194935.svg
-
+quote:      "Aca escribimos la informacion del Post"
+image:
+      url: "img/post_01.jpg"
 ---
 
 ## A New Post
