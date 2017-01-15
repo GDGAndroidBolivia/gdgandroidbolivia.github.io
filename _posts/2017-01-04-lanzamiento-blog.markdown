@@ -5,6 +5,9 @@ subtitle:   "Iniciamos generando material persistente en este Blog"
 date:       2017-01-04 12:00:00
 author:     "GDG Android Bolivia"
 header-img: "img/post_01.jpg"
+quote:      "Aca escribimos la informacion del Post"
+image:
+      url: "img/post_01.jpg"
 ---
 
 
