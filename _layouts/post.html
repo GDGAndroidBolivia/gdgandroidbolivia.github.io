@@ -26,7 +26,78 @@ layout: default
 
 				{{ content }}
 
+                </br>
                 <hr>
+                <center>
+                    <img class="image-member" src="{{ page.author_pic }}"/>
+                </center>
+                <h3 class="profile-title">{{ page.author }}</h3>
+                <h4 class="profile-subtitle">{{ page.bio }}</h4>
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        {% if page.fb_user %}
+                        <li>
+                            <a href="https://www.facebook.com/{{ page.fb_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if page.tw_user %}
+                        <li>
+                            <a href="https://twitter.com/{{ page.tw_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if page.gp_user %}
+                        <li>
+                            <a href="https://plus.google.com/+{{ page.gp_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if page.gh_user %}
+                        <li>
+                            <a href="https://github.com/{{ page.gh_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if page.yt_user %}
+                        <li>
+                            <a href="https://youtube.com/{{ page.yt_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if page.email %}
+                        <li>
+                            <a href="mailto:{{ page.email }}">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </div></br></br><hr>
+
 
                 <ul class="pager">
                     {% if page.previous.url %}
