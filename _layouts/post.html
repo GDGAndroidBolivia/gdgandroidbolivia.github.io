@@ -11,7 +11,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Publicado por <b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ page.date | date: "%-d/%m/%Y" }}</span>
+                    <h3 class="text-post-date">Publicado por <b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ page.date | date: "%-d/%m/%Y" }}</h3>
                 </div>
             </div>
         </div>
