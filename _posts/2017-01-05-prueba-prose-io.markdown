@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 published: 	true
 layout:     post
 title:      "Prueba Prose.io"
@@ -10,6 +7,8 @@ date:       2017-01-05 00:01:00
 author:     "Gustavo Lizarraga"
 header-img: "img/post_01.jpg"
 comments:   true
+author_pic: http://image.flaticon.com/icons/svg/194/194935.svg
+
 ---
 
 ## A New Post
