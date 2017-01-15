@@ -15,6 +15,7 @@ gp_user:    GustavoLizarraga
 gh_user:    Gusn8
 yt_user:    GustavoLizarraga
 email:      lizarraga.gux@gmail.com
+description:  "Descripcion"
 ---
 
 # Introduccion
