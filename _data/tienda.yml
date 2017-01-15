@@ -6,8 +6,8 @@
   product-front-t: front4
   product-back-t: back4
 
-- product-front: ../img/moneda-front.jpg
-  product-back: ../img/moneda-back.jpg
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
   product-name: 'Taza Android Camp (Noche)'
   product-desc: 'Taza con disenio de noche del Android Camp'
   product-price: Bs. 20
