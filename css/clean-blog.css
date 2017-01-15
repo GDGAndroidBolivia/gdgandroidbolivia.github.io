@@ -373,6 +373,13 @@ hr.small {
   text-align: center center;
 }
 
+.text-post-date {
+  font-weight: 200; 
+  font-size: 0.7em; 
+  margin: 0px; 
+  text-align: right;
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
