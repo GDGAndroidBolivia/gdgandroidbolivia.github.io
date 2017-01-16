@@ -357,21 +357,20 @@ hr.small {
 */
 
 .image-member-index{
-  position: relative;
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
   margin: 0px;
-  border-radius: 150px;
+  border-radius: 3px;
   border:2px solid #eee;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
 }
 
 .table-index {
-  width: 15em; 
+  width: auto; 
   margin-bottom: 0px; 
   padding-bottom: 0px; 
   background-color: #fff;
