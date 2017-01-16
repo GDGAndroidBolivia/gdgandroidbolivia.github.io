@@ -358,8 +358,8 @@ hr.small {
 
 .image-member-index{
   position: relative;
-  width: 1.5em;
-  height: 1.5em;
+  width: 30px;
+  height: 30px;
   margin: 0px;
   border-radius: 150px;
   border:2px solid #eee;
