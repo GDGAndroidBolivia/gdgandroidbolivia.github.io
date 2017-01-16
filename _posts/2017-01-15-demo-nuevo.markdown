@@ -10,8 +10,6 @@ author:     "Gustavo Lizarraga"
 author_pic: "http://image.flaticon.com/icons/svg/194/194935.svg"
 bio:        "UI/UX Designer, Fron-end & Mobile Dev"
 quote:      "Aca escribimos la informacion del Post"
-image:
-    url:        "img/post_01.jpg"
 fb_user:    Gusn8
 tw_user:    Gusn8_
 gp_user:    GustavoLizarraga
