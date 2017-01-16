@@ -356,6 +356,40 @@ hr.small {
 ****************************************************************
 */
 
+.image-member-index{
+  position: relative;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0px;
+  border-radius: 150px;
+  border:2px solid #eee;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.table-index {
+  width: 15em; 
+  margin-bottom: 0px; 
+  padding-bottom: 0px; 
+  background-color: #fff;
+}
+
+.table-index:hover{
+  background-color: #fff;
+}
+
+.tb{
+  background-color: #fff;
+  border-top: none !important;
+  margin: 0px;
+  padding: 0px;  
+}
+.tb:hover{
+  background-color: #fff;
+}
 
 .text-body {
   font-weight: 100; 
@@ -376,6 +410,14 @@ hr.small {
   font-size: 0.7em; 
   margin: 0px; 
   text-align: right;
+}
+
+.text-post-index {
+  font-weight: 200; 
+  font-size: 0.7em; 
+  margin: 0px; 
+  text-align: left;
+  vertical-align: middle;
 }
 
 @media only screen and (min-width: 768px) {
