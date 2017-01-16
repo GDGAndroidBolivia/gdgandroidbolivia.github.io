@@ -18,7 +18,37 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <h5 class="text-post-date">Publicado por <b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ post.date | date: "%-d/%m/%Y" }}</h5>
+        <div align="right">
+            <table border="0" class="table-index"> 
+                    <td align="right" style="border-top: none" class="tb">
+                        <img class="image-member-index" src="{{ post.author_pic }}"/>
+                    </td>
+                    <td style="vertical-align: middle; border-top: none; hover: background-color: #f00;" class="tb">
+                        <h5 class="text-post-index" style="margin-left: 0px; padding-left: 0px"><b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} <font size="2em">&middot</font> </b> 
+                            {% assign m = post.date | date: "%-m" %}
+                            {{ post.date | date: "%-d" }}
+                            {% case m %}
+                              {% when '1' %}Enero
+                              {% when '2' %}Febrero
+                              {% when '3' %}Marzo
+                              {% when '4' %}Abril
+                              {% when '5' %}Mayo
+                              {% when '6' %}Junio
+                              {% when '7' %}Julio
+                              {% when '8' %}Agosto
+                              {% when '9' %}Septiembre
+                              {% when '10' %}Octubre
+                              {% when '11' %}Noviembre
+                              {% when '12' %}Diciembre
+                            {% endcase %}
+                            {{ post.date | date: "%Y" }}
+
+
+
+                    </h5>
+                    </td>
+            </table>
+        </div>
     </a>
 </div>
 <hr style="border-width: 1px; border-color: #86cc89">
