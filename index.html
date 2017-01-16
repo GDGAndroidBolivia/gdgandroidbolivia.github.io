@@ -18,12 +18,13 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div align="right">
-            <table border="0" class="table-index"> 
-                    <td align="right" style="border-top: none" class="tb">
+        <div align="right" style="border-style: hidden;">
+            <table border="0" class="table-index" style="border-collapse: collapse;"> 
+                    <td align="right" style="border-top: none;border-collapse: collapse;" class="tb">
                         <img class="image-member-index" src="{{ post.author_pic }}"/>
                     </td>
-                    <td style="vertical-align: middle; border-top: none; hover: background-color: #f00;" class="tb">
+                    <td style="vertical-align: middle; border-top: none; hover: background-color: #f00; 
+                    word-wrap: break-word;" class="tb">
                         <h5 class="text-post-index" style="margin-left: 0px; padding-left: 0px"><b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} <font size="2em">&middot</font> </b> 
                             {% assign m = post.date | date: "%-m" %}
                             {{ post.date | date: "%-d" }}
