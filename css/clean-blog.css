@@ -141,8 +141,6 @@ hr.small {
   text-decoration:none
 }
 
-
-
 .img-profile-effect {
   -webkit-transition: all 1s ease;
      -moz-transition: all 1s ease;
@@ -282,6 +280,13 @@ hr.small {
     text-decoration: none;
 }
 
+.shadow-footer {
+  background-color: #4CAF50;
+  -webkit-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+}
+
 /*
 ****************************************************************
 */
@@ -396,9 +401,23 @@ hr.small {
 
 .text-body {
   font-weight: 100; 
-  font-size: 1.1em; 
+  font-size: 1em; 
   margin: 0px; 
-  text-align: justify;
+  text-align: center;
+}
+
+.text-footer {
+  font-weight: 100; 
+  font-size: 0.75em; 
+  margin: 0px; 
+  color: #fff;
+}
+
+.text-footer:hover {
+  font-weight: 100; 
+  font-size: 0.75em; 
+  margin: 0px; 
+  color: #fff;
 }
 
 .text-comprar {
@@ -418,6 +437,15 @@ hr.small {
 .text-post-index {
   font-weight: 200; 
   font-size: 0.7em; 
+}
+
+.link-footer {
+  text-decoration: none;
+  color: #fff;
+}
+.link-footer:hover {
+  text-decoration: none;
+  color: #149A0B;
 }
 
 @media only screen and (min-width: 768px) {
