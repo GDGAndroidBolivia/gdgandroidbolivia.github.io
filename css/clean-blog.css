@@ -374,10 +374,12 @@ hr.small {
   margin-bottom: 0px; 
   padding-bottom: 0px; 
   background-color: #fff;
+  border-style: hidden;
 }
 
 .table-index:hover{
   background-color: #fff;
+  border-style: hidden;
 }
 
 .tb{
@@ -385,9 +387,11 @@ hr.small {
   border-top: none !important;
   margin: 0px;
   padding: 0px;  
+  border-style: hidden;
 }
 .tb:hover{
   background-color: #fff;
+  border-style: hidden;
 }
 
 .text-body {
