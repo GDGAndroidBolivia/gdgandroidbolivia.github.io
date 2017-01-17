@@ -11,7 +11,35 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <h3 class="text-post-date">Publicado por <b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</b> el {{ page.date | date: "%-d/%m/%Y" }}</h3>
+                    <div align="right" style="width: 100%;">
+            <div style="width: auto; height: auto; float: right; margin-top: 2px">
+                <img class="image-member-index" src="{{ page.author_pic }}"/>
+            </div>
+            <div style="float: right; text-align: center; vertical-align: middle; margin-right: 5px">
+                <h5 class="text-post-index">
+                            {% assign m = page.date | date: "%-m" %}
+                            {{ page.date | date: "%-d" }}
+                            {% case m %}
+                              {% when '1' %}Enero
+                              {% when '2' %}Febrero
+                              {% when '3' %}Marzo
+                              {% when '4' %}Abril
+                              {% when '5' %}Mayo
+                              {% when '6' %}Junio
+                              {% when '7' %}Julio
+                              {% when '8' %}Agosto
+                              {% when '9' %}Septiembre
+                              {% when '10' %}Octubre
+                              {% when '11' %}Noviembre
+                              {% when '12' %}Diciembre
+                            {% endcase %}
+                            {{ page.date | date: "%Y" }}
+                            <font size="2em"><b>&middot </b></font><b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}  </b> 
+                </h5>
+            </div>
+            <div style="display: block; margin-left: auto; margin-right: auto"></div>
+            <div style="clear: both"></div>
+        </div>
                 </div>
             </div>
         </div>
@@ -102,12 +130,12 @@ layout: default
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Publicación anterior</a>
+                        <a href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Anterior</a>
                     </li>
                     {% endif %}
                     {% if page.next.url %}
                     <li class="next">
-                        <a href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Siguiente publicación &rarr;</a>
+                        <a href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Siguiente &rarr;</a>
                     </li>
                     {% endif %}
                 </ul>
