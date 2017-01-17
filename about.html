@@ -59,57 +59,85 @@ header-img: "img/acercade-bg.jpg"
 		<div class="row" style="width: 100%">
 			{% for equipo in site.data.equipo %}
 				<div class="col-sm-4">
-						<div class="img-profile-effect">
-							<center>
-								<img class="image-member" src="{{ equipo.member-profile }}"/>
-							</center>
+					<div class="img-profile-effect">
+						<center>
+							<img class="image-member" src="{{ equipo.member-profile }}"/>
 							<h3 class="profile-title">{{ equipo.member-name }}</h3>
 							<h4 class="profile-subtitle">{{ equipo.member-job }}</h4>
-							<table border="0">
-								<tr>
-									<td>
-										<a href="https://www.facebook.com/{{ equipo.social-fb }}" target="_blank">
-				                            <span class="fa-stack btn-xs small">
-				                                <i class="fa fa-circle fa-stack-2x"></i>
-				                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-				                            </span>
-	                        			</a>
-									</td>
-									<td>
-										<a href="https://twitter.com/{{ equipo.social-tw }}" target="_blank">
-				                            <span class="fa-stack btn-xs small">
-				                                <i class="fa fa-circle fa-stack-2x"></i>
-				                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-				                            </span>
-	                        			</a>
-									</td>
-									<td>
-										<a href="https://plus.google.com/+{{ equipo.social-gp }}" target="_blank">
-				                            <span class="fa-stack btn-xs small">
-				                                <i class="fa fa-circle fa-stack-2x"></i>
-				                                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
-				                            </span>
-	                        			</a>
-									</td>
-									<td>
-										<a href="https://github.com/{{ equipo.social-gh }}" target="_blank">
-				                            <span class="fa-stack btn-xs small">
-				                                <i class="fa fa-circle fa-stack-2x icon-resize-small"></i>
-				                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-				                            </span>
-	                        			</a>
-									</td>
-									<td>
-										<a href="mailto:{{ equipo.social-gm }}">
-				                            <span class="fa-stack btn-xs small">
-				                                <i class="fa fa-circle fa-stack-2x"></i>
-				                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-				                            </span>
-	                        			</a>
-									</td>
-								</tr>
-							</table>
-						</div>
+							<div style="display: table; table-layout: fixed; width: 100%; margin-bottom: 20px">
+								{% if equipo.social-fb %}
+								<div style="display: table-cell;">
+									<a href="https://www.facebook.com/{{ equipo.social-fb }}" target="_blank">
+		                            	<span class="fa-stack btn-xs small">
+		                                 	<i class="fa fa-circle fa-stack-2x"></i>
+		                                   	<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+		                               	</span>
+		                           	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-tw %}
+								<div style="display: table-cell;">
+									<a href="https://www.twitter.com/{{ equipo.social-tw }}" target="_blank">
+		                            	<span class="fa-stack btn-xs small">
+		                                	<i class="fa fa-circle fa-stack-2x"></i>
+		                                   	<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+		                              	</span>
+		                          	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-gp %}
+								<div style="display: table-cell;" align="center">
+									<a href="https://www.plus.google.com/+{{ equipo.social-gp }}" target="_blank">
+		                            	<span class="fa-stack btn-xs small">
+		                               		<i class="fa fa-circle fa-stack-2x"></i>
+		                                  	<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+		                              	</span>
+		                          	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-gh %}
+								<div style="display: table-cell;">
+									<a href="https://www.github.com/{{ equipo.social-gh }}" target="_blank">
+		                              	<span class="fa-stack btn-xs small">
+		                                 	<i class="fa fa-circle fa-stack-2x"></i>
+		                                  	<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+		                              	</span>
+		                          	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-yt %}
+								<div style="display: table-cell;">
+									<a href="https://www.youtube.com/{{ equipo.social-yt }}" target="_blank">
+		                          		<span class="fa-stack btn-xs small">
+		                                 	<i class="fa fa-circle fa-stack-2x"></i>
+		                                  	<i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+		                             	</span>
+		                         	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-ws %}
+								<div style="display: table-cell;">
+									<a href="http://{{ equipo.social-ws }}" target="_blank">
+		                          		<span class="fa-stack btn-xs small">
+		                                 	<i class="fa fa-circle fa-stack-2x"></i>
+		                                  	<i class="fa fa-code fa-stack-1x fa-inverse"></i>
+		                             	</span>
+		                         	</a>
+								</div>
+								{% endif %}
+								{% if equipo.social-gm %}
+								<div style="display: table-cell;">
+									<a href="mailto:{{ equipo.social-gm }}">
+		                          		<span class="fa-stack btn-xs small">
+		                                 	<i class="fa fa-circle fa-stack-2x"></i>
+		                                  	<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+		                             	</span>
+		                         	</a>
+								</div>
+								{% endif %}
+							</div>
+						</center>
+					</div>
 				</div>
 			{% endfor %}
 		</div>
