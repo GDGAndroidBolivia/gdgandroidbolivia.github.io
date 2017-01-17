@@ -3,14 +3,13 @@ layout: default
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading">
                     <div align="center">
-                        <img src="{{ site.baseurl }}/{{ site.avatar-logo }}" width="200px" 
-                        style="position: center" />
+                        <img src="{{ site.baseurl }}/{{ site.avatar-logo }}" width="200px"/>
                         <!--{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}-->
                     </div>
                     <hr class="small">
@@ -20,7 +19,6 @@ layout: default
         </div>
     </div>
 </header>
-
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
