@@ -359,7 +359,7 @@ hr.small {
 .image-member-index{
   width: 30px;
   height: 30px;
-  margin: 0px;
+  position: relative;
   border-radius: 3px;
   border:2px solid #eee;
   -webkit-border-radius: 150px;
@@ -418,9 +418,6 @@ hr.small {
 .text-post-index {
   font-weight: 200; 
   font-size: 0.7em; 
-  margin: 0px; 
-  text-align: left;
-  vertical-align: middle;
 }
 
 @media only screen and (min-width: 768px) {
@@ -572,11 +569,13 @@ hr.small {
 }
 .post-preview > a {
   color: #404040;
+  border: none !important;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
   color: #4CAF50;
+  border: none !important;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -593,6 +592,7 @@ hr.small {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
+  border: none !important;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
