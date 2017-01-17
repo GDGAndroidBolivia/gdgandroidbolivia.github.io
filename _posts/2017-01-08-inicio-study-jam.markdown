@@ -3,20 +3,21 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-01 12:00:00
-title:      "Prueba inicial"
-subtitle:   "Esta es una prueba de post para el Blog del GDG"
-author:     "Luis Lopez"
-author_pic: http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2010/12/facebook-profile-picture-baby-pic-avatar.jpg
+date:       2017-01-08 12:00:00
+title:      "Study Jam Android development Apps (Intermedio)"
+subtitle:   "Iniciamos con el siguiente nivel del Study Jam ahora intermedio"
+author:     "Larry Page"
+author_pic: "http://www.american.edu/uploads/profiles/large/chris_palmer_profile_11.jpg"
 bio:        "UI/UX Designer, Fron-end & Mobile Dev"
+quote:      "Aca escribimos la informacion del Post"
 fb_user:    Gusn8
 tw_user:    Gusn8_
-gp_user:    
-gh_user:    
+gp_user:    GustavoLizarraga
+gh_user:    Gusn8
 yt_user:    GustavoLizarraga
 email:      lizarraga.gux@gmail.com
-description:  "Descripcion"
 ---
+
 
 # Introduccion
 ---
@@ -36,16 +37,15 @@ You will like those projects!
 ##### h5 Heading
 ###### h6 Heading
 
+> Shortcuts (emoticons): :-) :-( 8-) ;)
 
-## Horizontal Rules
-
-___
-
----
-
-***
+see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
 
+### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+
+- 19^th^
+- H~2~O
 
 
 ### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
@@ -98,18 +98,3 @@ Term 1
 Term 2
   ~ Definition 2a
   ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::

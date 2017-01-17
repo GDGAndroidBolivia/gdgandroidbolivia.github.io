@@ -3,13 +3,13 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-15 13:00:00
-title:      "Sesion 2 Study Jam"
-subtitle:   "Se llevo a cabo la segunda sesion del Study Jam for Beginners"
-author:     "Gustavo Lizarraga"
-author_pic: "http://image.flaticon.com/icons/svg/194/194935.svg"
-bio:        "UI/UX Designer"
-quote:      "Aca escribimos la informacion del Post"
+date:       2017-01-13 14:30:00
+title:      "Acerca del GDG Android Bolivia"
+subtitle:   "Quieres conocer algunos datos acerca del GDG Android Bolivia? Aca te los mostramos"
+author:     "Maria Posada"
+author_pic: "http://www.pacifichealthvoices.org/wp-content/uploads/2016/11/profile2.jpg"
+bio:        "Q&A Assurance"
+description:	"Bueno aca debemos colocar la descripcion de este Post en la etiqueta description"
 fb_user:    Gusn8
 tw_user:    Gusn8_
 gp_user:    

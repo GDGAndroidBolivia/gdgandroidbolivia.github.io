@@ -3,12 +3,12 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-02 12:00:00
-title:      "GDG Android Bolivia (Datos)"
-subtitle:   "Algunos datos acerca del GDG Android Bolivia"
-author:     "Gustavo Lizarraga"
+date:       2017-01-07 12:00:00
+title:      "Android IO Day Extended"
+subtitle:   "Se viene la extension del Google I/O en USA y nosotros te lo contamos de primera mano"
+author:     "Monica Chura"
 author_pic: "http://image.flaticon.com/icons/svg/194/194935.svg"
-bio:        "Full Stack Dev"
+bio:        "UI/UX Designer, Fron-end & Mobile Dev"
 quote:      "Aca escribimos la informacion del Post"
 fb_user:    Gusn8
 tw_user:    Gusn8_
@@ -19,31 +19,15 @@ email:      lizarraga.gux@gmail.com
 ---
 
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+# Introduccion
+---
+- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+  resize in browser.
+- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+  i18n with plurals support and easy syntax.
 
-Footnote 1 link[^first].
+You will like those projects!
 
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
 
 :   Definition 2
 
@@ -74,4 +58,3 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
-

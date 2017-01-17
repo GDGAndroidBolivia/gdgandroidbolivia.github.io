@@ -3,22 +3,21 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-15 13:00:00
-title:      "Sesion 2 Study Jam"
-subtitle:   "Se llevo a cabo la segunda sesion del Study Jam for Beginners"
-author:     "Gustavo Lizarraga"
-author_pic: "http://image.flaticon.com/icons/svg/194/194935.svg"
-bio:        "UI/UX Designer"
-quote:      "Aca escribimos la informacion del Post"
+date:       2017-01-16 00:25:00
+title:      "Post Final Prueba"
+subtitle:   "Esta es una prueba final de subtitulo de Post"
+author:     "Josue Torrez"
+author_pic: http://www.american.edu/uploads/profiles/large/chris_palmer_profile_11.jpg
+bio:        "Android Devs"
 fb_user:    Gusn8
-tw_user:    Gusn8_
+tw_user:    
 gp_user:    
 gh_user:    Gusn8
-yt_user:    GustavoLizarraga
+yt_user:    
 email:      lizarraga.gux@gmail.com
 ---
 
- Introduccion
+# Introduccion
 ---
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
   resize in browser.
@@ -34,7 +33,23 @@ You will like those projects!
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading
+###### h6 Heading
+
+
+# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
 ###### h6 Heading\
 
+# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading\
 
-##Fin Post
+Final del Post.
+
+

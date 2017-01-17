@@ -3,20 +3,21 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-01 12:00:00
-title:      "Prueba inicial"
-subtitle:   "Esta es una prueba de post para el Blog del GDG"
-author:     "Luis Lopez"
-author_pic: http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2010/12/facebook-profile-picture-baby-pic-avatar.jpg
-bio:        "UI/UX Designer, Fron-end & Mobile Dev"
+date:       2017-01-10 12:00:00
+title:      "Android Lab 01 - Git"
+subtitle:   "Se llevo a cabo el Android Lab 01 del 2017 con una introduccion a Git"
+author:     "Mariela Mamani"
+author_pic: "http://www.pacifichealthvoices.org/wp-content/uploads/2016/11/profile2.jpg"
+bio:        "Mobile Dev"
+quote:      "Aca escribimos la informacion del Post"
 fb_user:    Gusn8
 tw_user:    Gusn8_
-gp_user:    
+gp_user:    GustavoLizarraga
 gh_user:    
 yt_user:    GustavoLizarraga
 email:      lizarraga.gux@gmail.com
-description:  "Descripcion"
 ---
+
 
 # Introduccion
 ---
@@ -46,23 +47,53 @@ ___
 ***
 
 
+## Typographic replacements
+
+Enable typographer option to see result.
+
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+
+test.. test... test..... test?..... test!....
+
+!!!!!! ???? ,,  -- ---
+
+"Smartypants, double quotes" and 'single quotes'
 
 
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
+## Emphasis
 
-++Inserted text++
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
 
 
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
+## Blockquotes
 
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
 
-Footnote 1 link[^first].
 
-Footnote 2 link[^second].
+## Lists
+
+Unordered
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+
+
 
 Inline footnote^[Text of inline footnote] definition.
 

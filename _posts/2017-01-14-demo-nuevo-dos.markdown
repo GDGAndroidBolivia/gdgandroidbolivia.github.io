@@ -3,18 +3,19 @@ layout:     post
 published:  true
 comments:   true
 header-img: "img/post_02.jpg"
-date:       2017-01-15 13:00:00
-title:      "Sesion 2 Study Jam"
-subtitle:   "Se llevo a cabo la segunda sesion del Study Jam for Beginners"
-author:     "Gustavo Lizarraga"
-author_pic: "http://image.flaticon.com/icons/svg/194/194935.svg"
-bio:        "UI/UX Designer"
+date:       2017-01-14 14:00:00
+title:      "Android Talk 23 - Multimedia"
+subtitle:   "En nuestro Android Talk 23 vimos algo de Multimedia"
+author:     "Manuel Alvarez"
+author_pic: "http://www.american.edu/uploads/profiles/large/chris_palmer_profile_11.jpg"
+bio:        "Fron-end Developer"
+description:	"Descripcion de este Post"
 quote:      "Aca escribimos la informacion del Post"
-fb_user:    Gusn8
+fb_user:    
 tw_user:    Gusn8_
-gp_user:    
+gp_user:    GustavoLizarraga
 gh_user:    Gusn8
-yt_user:    GustavoLizarraga
+yt_user:    
 email:      lizarraga.gux@gmail.com
 ---
 
