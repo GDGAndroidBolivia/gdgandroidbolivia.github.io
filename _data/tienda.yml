@@ -1,23 +1,59 @@
 - product-front: ../img/taza-front.jpg
   product-back: ../img/taza-back.jpg
-  product-name: 'Taza Android Camp (Dia)'
-  product-desc: 'Taza de porcelana, disenio: Android Camp'
+  product-name: 'Taza Android Camp'
+  product-desc: 'Taza de porcelana, color celeste con diseño DIA del Android Camp 2016. Dimensiones: 10x10[cm].'
   product-price: Bs. 20
-  product-front-t: front4
-  product-back-t: back4
 
 - product-front: ../img/taza-front.jpg
   product-back: ../img/taza-back.jpg
-  product-name: 'Taza Android Camp (No)'
-  product-desc: 'Taza con disenio de noche del Android p'
+  product-name: 'Taza Android Camp'
+  product-desc: 'Taza de porcelana, color azul con diseño NOCHE del Android Camp 2016. Dimensiones: 10x10[cm]'
   product-price: Bs. 20
-  product-front-t: front2
-  product-back-t: back2
 
 - product-front: ../img/taza-front.jpg
   product-back: ../img/taza-back.jpg
-  product-name: 'Llavero Android Camp'
-  product-desc: 'Taza con disenio de noche del Android Camp'
+  product-name: 'Taza GDG'
+  product-desc: 'Taza de porcelana, color blanco con diseño de la comunidad GDG Android Bolivia. Dimensiones: 10x10[cm]'
+  product-price: Bs. 20
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Polera Android Camp'
+  product-desc: 'Polera blanca de algodón, sublimada full color, con diseño del Android Camp 2016. Tallas: [XL,L,M,S]'
+  product-price: Bs. 35
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Llavero / Abrebotellas'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Marshmallow. Dimensiones: 8x8[cm]'
   product-price: Bs. 5
-  product-front-t: front5
-  product-back-t: back5
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Llavero / Abrebotellas'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Malvavisco. Dimensiones 8x8[cm]'
+  product-price: Bs. 5
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Llavero / Abrebotellas'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Camp Dia. Dimensiones 8x8[cm]'
+  product-price: Bs. 5  
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Llavero / Abrebotellas'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Camp noche. Dimensiones 8x8[cm]'
+  product-price: Bs. 5
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Boton'
+  product-desc: 'Boton de PVC-metalico. Diseño Android Camp Dia. Dimensiones 5x5[cm]'
+  product-price: Bs. 3
+
+- product-front: ../img/taza-front.jpg
+  product-back: ../img/taza-back.jpg
+  product-name: 'Boton'
+  product-desc: 'Boton de PVC-metalico. Diseño Android Camp Noche. Dimensiones 5x5[cm]'
+  product-price: Bs. 3
