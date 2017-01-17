@@ -6,10 +6,6 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <!--<table border="0">
-            <td>{{ post.date }}</td>
-            <td></td>
-        </table>-->
         <h2 class="post-title">            
             {{ post.title }}
         </h2>
@@ -18,14 +14,12 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div align="right" style="border-style: hidden;">
-            <table border="0" class="table-index" style="border-style: hidden;"> 
-                    <td align="right" style="border-top: none;border-collapse: collapse;" class="tb">
-                        <img class="image-member-index" src="{{ post.author_pic }}"/>
-                    </td>
-                    <td style="vertical-align: middle; border-top: none; hover: background-color: #f00; 
-                    word-wrap: break-word;" class="tb">
-                        <h5 class="text-post-index" style="margin-left: 0px; padding-left: 0px"><b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} <font size="2em">&middot</font> </b> 
+        <div align="right" style="width: 100%;">
+            <div style="width: auto; height: auto; float: right; margin-top: 2px">
+                <img class="image-member-index" src="{{ post.author_pic }}"/>
+            </div>
+            <div style="float: right; text-align: center; vertical-align: middle; margin-right: 5px">
+                <h5 class="text-post-index">
                             {% assign m = post.date | date: "%-m" %}
                             {{ post.date | date: "%-d" }}
                             {% case m %}
@@ -43,12 +37,11 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
                               {% when '12' %}Diciembre
                             {% endcase %}
                             {{ post.date | date: "%Y" }}
-
-
-
-                    </h5>
-                    </td>
-            </table>
+                            <font size="2em"><b>&middot </b></font><b>{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  </b> 
+                </h5>
+            </div>
+            <div style="display: block; margin-left: auto; margin-right: auto"></div>
+            <div style="clear: both"></div>
         </div>
     </a>
 </div>
@@ -60,12 +53,12 @@ description: "Comunidad para desarrolladores, diseñadores, profesionales, estud
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Publicaciones recientes</a>
+        <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Recientes</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Publicaciones antiguas &rarr;</a>
+        <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Anteriores &rarr;</a>
     </li>
     {% endif %}
 </ul>
