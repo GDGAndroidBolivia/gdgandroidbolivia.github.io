@@ -1,59 +1,89 @@
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_taza_01_front.jpg
+  product-back: ../img/store/prod_taza_01_back.jpg
   product-name: 'Taza Android Camp'
   product-desc: 'Taza de porcelana, color celeste con diseño DIA del Android Camp 2016. Dimensiones: 10x10[cm].'
   product-price: Bs. 20
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_taza_02_front.jpg
+  product-back: ../img/store/prod_taza_02_back.jpg
   product-name: 'Taza Android Camp'
   product-desc: 'Taza de porcelana, color azul con diseño NOCHE del Android Camp 2016. Dimensiones: 10x10[cm]'
   product-price: Bs. 20
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_taza_03_front.jpg
+  product-back: ../img/store/prod_taza_03_back.jpg
   product-name: 'Taza GDG'
   product-desc: 'Taza de porcelana, color blanco con diseño de la comunidad GDG Android Bolivia. Dimensiones: 10x10[cm]'
   product-price: Bs. 20
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_taza_01_front.jpg
+  product-back: ../img/store/prod_taza_01_back.jpg
   product-name: 'Polera Android Camp'
-  product-desc: 'Polera blanca de algodón, sublimada full color, con diseño del Android Camp 2016. Tallas: [XL,L,M,S]'
+  product-desc: 'Polera blanca de algodón, sublimada full color, con diseño del Android Camp 2016. Tallas: [L,M]'
   product-price: Bs. 35
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_lla_01_front.jpg
+  product-back: ../img/store/prod_lla_01_back.jpg
   product-name: 'Llavero / Abrebotellas'
-  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Marshmallow. Dimensiones: 8x8[cm]'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Android Camp Noche. Tamaño: 8x8[cm]'
   product-price: Bs. 5
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_lla_02_front.jpg
+  product-back: ../img/store/prod_lla_02_back.jpg
   product-name: 'Llavero / Abrebotellas'
-  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Malvavisco. Dimensiones 8x8[cm]'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Android Camp Dia. Tamaño: 8x8[cm]'
   product-price: Bs. 5
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
+- product-front: ../img/store/prod_lla_03_front.jpg
+  product-back: ../img/store/prod_lla_03_back.jpg
   product-name: 'Llavero / Abrebotellas'
-  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Camp Dia. Dimensiones 8x8[cm]'
+  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Marshmallow. Tamaño: 8x8[cm]'
   product-price: Bs. 5  
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
-  product-name: 'Llavero / Abrebotellas'
-  product-desc: 'Multifunción: Llavero y Abrebotellas [abridor] metálico. Diseño Camp noche. Dimensiones 8x8[cm]'
-  product-price: Bs. 5
-
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
-  product-name: 'Boton'
-  product-desc: 'Boton de PVC-metalico. Diseño Android Camp Dia. Dimensiones 5x5[cm]'
+- product-front: ../img/store/prod_boton_01_front.jpg
+  product-back: ../img/store/prod_boton_01_back.jpg
+  product-name: 'Botón'
+  product-desc: 'Botón full color metálico con gancho. Diseño Marshmallow al fuego. Dimensiones 5x5[cm]'
   product-price: Bs. 3
 
-- product-front: ../img/taza-front.jpg
-  product-back: ../img/taza-back.jpg
-  product-name: 'Boton'
-  product-desc: 'Boton de PVC-metalico. Diseño Android Camp Noche. Dimensiones 5x5[cm]'
+- product-front: ../img/store/prod_boton_02_front.jpg
+  product-back: ../img/store/prod_boton_02_back.jpg
+  product-name: 'Botón'
+  product-desc: 'Botón full color metálico con gancho. Diseño Android Camp Noche. Dimensiones 5x5[cm]'
   product-price: Bs. 3
+
+- product-front: ../img/store/prod_boton_03_front.jpg
+  product-back: ../img/store/prod_boton_03_back.jpg
+  product-name: 'Botón'
+  product-desc: 'Botón full color metálico con gancho. Diseño Logo GDG (bracket). Dimensiones 5x5[cm]'
+  product-price: Bs. 3
+
+- product-front: ../img/store/prod_boton_04_front.jpg
+  product-back: ../img/store/prod_boton_04_back.jpg
+  product-name: 'Botón'
+  product-desc: 'Botón full color metálico con gancho. Diseño Android con estrellas. Dimensiones 5x5[cm]'
+  product-price: Bs. 3
+
+- product-front: ../img/store/prod_stic_01_front.jpg
+  product-back: ../img/store/prod_stic_01_back.jpg
+  product-name: 'Sticker'
+  product-desc: 'Sticker full color cuadrado con margen. Diseño Logo GDG (bracket). Dimensiones 5x5[cm]'
+  product-price: Bs. 1
+
+- product-front: ../img/store/prod_stic_02_front.jpg
+  product-back: ../img/store/prod_stic_02_back.jpg
+  product-name: 'Sticker'
+  product-desc: 'Sticker full color cuadrado con margen. Diseño Marshmallow estrellas. Dimensiones 5x5[cm]'
+  product-price: Bs. 1
+
+- product-front: ../img/store/prod_stic_03_front.jpg
+  product-back: ../img/store/prod_stic_03_back.jpg
+  product-name: 'Sticker'
+  product-desc: 'Sticker full color cuadrado con margen. Diseño Android Camp DIA. Dimensiones 5x5[cm]'
+  product-price: Bs. 1
+
+- product-front: ../img/store/prod_stic_04_front.jpg
+  product-back: ../img/store/prod_stic_04_back.jpg
+  product-name: 'Sticker'
+  product-desc: 'Sticker full color cuadrado con margen. Diseño Android de estrellas. Dimensiones 5x5[cm]'
+  product-price: Bs. 1
