@@ -1,6 +1,6 @@
 ---
 layout:     post
-published:  true
+published:  false
 comments:   true
 header-img: "img/post_02.jpg"
 date:       2017-01-14 14:00:00
@@ -17,6 +17,7 @@ gp_user:    GustavoLizarraga
 gh_user:    Gusn8
 yt_user:    
 email:      lizarraga.gux@gmail.com
+categories: Android
 ---
 
  Introduccion

@@ -2,7 +2,7 @@
 layout:     post
 published:  true
 comments:   true
-header-img: "img/post_02.jpg"
+header-img: "img/post/post_02.jpg"
 date:       2017-01-01 12:00:00
 title:      "Prueba inicial"
 subtitle:   "Esta es una prueba de post para el Blog del GDG"
@@ -16,6 +16,7 @@ gh_user:
 yt_user:    GustavoLizarraga
 email:      lizarraga.gux@gmail.com
 description:  "Descripcion"
+categories: Android
 ---
 
 # Introduccion

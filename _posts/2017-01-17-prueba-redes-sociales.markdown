@@ -1,6 +1,6 @@
 ---
 layout:     post
-published:  true
+published:  false
 comments:   true
 header-img: "img/post_02.jpg"
 date:       2017-01-17 00:01:00

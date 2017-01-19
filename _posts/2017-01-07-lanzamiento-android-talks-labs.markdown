@@ -1,8 +1,8 @@
 ---
 layout:     post
-published:  true
+published:  false
 comments:   true
-header-img: "img/post_02.jpg"
+header-img: "img/post/post_01.jpg"
 date:       2017-01-07 12:00:00
 title:      "Android IO Day Extended"
 subtitle:   "Se viene la extension del Google I/O en USA y nosotros te lo contamos de primera mano"
