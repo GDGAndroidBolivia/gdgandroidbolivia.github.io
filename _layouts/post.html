@@ -113,6 +113,16 @@ layout: default
                             </a>
                         </li>
                         {% endif %}
+                        {% if page.ws_user %}
+                        <li>
+                            <a href="http://{{ page.ws_user }}" target="_blank">
+                                <span class="fa-stack fa-sm">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {% endif %}
                         {% if page.email %}
                         <li>
                             <a href="mailto:{{ page.email }}">
@@ -155,4 +165,3 @@ layout: default
     </div>
 </article>
 
-<hr>
