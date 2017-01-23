@@ -2,7 +2,7 @@
 layout:         post
 published:      true
 comments:       true
-header-img:     img/post/post_01.jpg
+header-img:     /img/post/post_01.jpg
 date:           2017-01-20 10:00:00
 title:          "Lanzamiento Blog GDG Android Bolivia"
 description:    "Se lanza oficialmente el Blog del GDG Android Bolivia, donde tendremos persistente toda información acerca de la comunidad."
