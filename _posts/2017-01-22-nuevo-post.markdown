@@ -2,7 +2,7 @@
 layout:         post
 published:      true
 comments:       true
-header-img:     img/post/post_02.jpg
+header-img:     /img/post/post_02.jpg
 date:           2017-01-21 10:00:00
 title:          "Nuevo Post"
 description:    "Aca tenemo una descripcion para este post"
