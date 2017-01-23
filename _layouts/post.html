@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
@@ -8,8 +9,8 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
                     <h1>{{ page.title }}</h1>
-                    {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% if page.description %}
+                    <h2 class="subheading">{{ page.description }}</h2>
                     {% endif %}
                     <div align="right" style="width: 100%;">
             <div style="width: auto; height: auto; float: right; margin-top: 2px">
