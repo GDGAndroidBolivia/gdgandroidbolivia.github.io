@@ -72,24 +72,24 @@
 
     <!-- Twitter cards metadatas -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@MiraMiCodigo">
-    <meta name="twitter:creator" content="@MiraMiCodigo">
+    <meta name="twitter:site" content="@Gusn8_">
+    <meta name="twitter:creator" content="@Gusn8_">
     {% if page.title %}
       <meta name="twitter:title" content="{{ page.title }}">
     {% else %}
       <meta name="twitter:title" content="{{ site.title }}">
     {% endif %}
-    <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+    {% if page.url %}
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
     {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}">
+      <meta name="twitter:description" content="{{ page.description }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.header-img %}
-        <meta name="twitter:image:src" content="{{ site.url }}{{ page.header-img }}">
-        <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+      <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
     {% endif %}
 
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.name }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">    
+
 </head>
