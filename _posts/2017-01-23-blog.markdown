@@ -1,0 +1,49 @@
+---
+layout:         post
+published:      true
+comments:       true
+header-img:     /img/post/post_01.jpg
+date:           2017-01-23 10:00:00
+title:          "Blog GDG"
+description:    "Blog de Android"
+author:         "Gustavo Lizarraga"
+author_pic:     /img/post/authors/gusn8.jpg
+bio:            "UI/UX Designer, Fron-end & Mobile Dev"
+fb_user:        Gusn8
+tw_user:        Gusn8_
+gp_user:        GustavoLizarraga
+gh_user:        Gusn8
+yt_user:        GustavoLizarraga
+ws_user:        www.miramicodigo.com
+email:          lizarraga.gux@gmail.com
+---
+
+## Nuestras actividades
+
+Durante la gestion 2017 tenemos muchas actividades que iremos llevando a cabo, estamos prestos a sugerencias, alianzas, todo apoyo es bienvenido.
+Algunas actividades que continuaremos llevando a cabo son:
+* Android Talks
+    - El ano 2016 llevamos a cabo `13` Talks, este ano continuaremos llevandolos a cabo.
+* Android Labs
+    - Seran los primeros `Android Labs` que llevemos a cabo totalmente practicos.
+* Study Jam
+    - Los Study Jams son un programa de **[Google Developers](https://www.developers.google.com)** en el cual solamente se lleva a cabo una version, pero en la comunidad llevamos a cabo 2 veces del mismo Study Jam.
+* Android Camp
+    - Hace 3 versiones que la llevamos a cabo y el ano 2016 por primera ves tuvimos como invitados a dos [Google Developer Experts](https://www.googke,cin): [Adrian Catalan]() y [Lucio Maciel]() este ano tenemos mas sorpresas para todos.
+* Android Day (Sorpresa)
+    - Estamos en la gestion de una actividad a mediados de ano el cual lo comunicaremos en las proximos meses.
+
+## Nuestras redes
+
+Puedes colocarte en contacto con nosotros por nuestras distintas redes sociales haciendo click en alguno de los siguientes enlaces:
+
+* **[Facebook](https://www.facebook.com/GDGAndroid.Bo)**
+* **[Google Plus](https://www.plus.google.com/+AndroidboliviaOrg)**
+* **[Twitter](https://twitter.com/GDGAndroidBo)**
+* **[GitHub](https://www.github.com/GDGAndroidBolivia)**
+* **[Youtube](https://www)**
+* **[Grupo en Facebook](https://www.facebook.com/groups/GDGAndroidBolivia)** 
+
+Tienes alguna duda hacia nosotros? No dudes en escribirnos.
+
+***GDG Android Bolivia***
