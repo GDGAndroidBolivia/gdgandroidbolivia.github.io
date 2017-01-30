@@ -17,6 +17,16 @@ yt_user:    GustavoLizarraga
 ws_user:    www.miramicodigo.com
 email:      lizarraga.gux@gmail.com
 ---
+
+ñ
+á
+é
+í
+ó
+ú
+¡
+¿
+
 <a id="cabeceras"></a>
 # Cabeceras
 
