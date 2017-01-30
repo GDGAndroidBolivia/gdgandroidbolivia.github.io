@@ -17,7 +17,7 @@ yt_user:        GustavoLizarraga
 ws_user:        www.miramicodigo.com
 email:          lizarraga.gux@gmail.com
 ---
-***
+
 # La razón
 
 Hace varios largos y ajetreados años que realizamos actividades y siempre tenía la idea de hacer persistente toda la información que se genera en todos nuestros eventos (documentación, código, proyectos, presentaciones, etc), pero por distintas situaciones: *problemas*, ~~trabajo~~, familia u otras actividades que surgen en el día a día no se logró realizar algo.
