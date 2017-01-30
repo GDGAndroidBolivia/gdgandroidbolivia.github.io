@@ -47,11 +47,11 @@ Algunas actividades que continuaremos llevando a cabo son:
 Puedes colocarte en contacto con nosotros por nuestras distintas redes sociales haciendo click en alguno de los siguientes enlaces:
 
 * **[Facebook](https://www.facebook.com/GDGAndroid.Bo)**
-* **[Google Plus](https://www.plus.google.com/+AndroidboliviaOrg)**
+* **[Google Plus](https://plus.google.com/+AndroidboliviaOrg)**
 * **[Twitter](https://twitter.com/GDGAndroidBo)**
 * **[GitHub](https://www.github.com/GDGAndroidBolivia)**
-* **[Youtube](https://www)**
-* **[Grupo en Facebook](https://www.facebook.com/groups/GDGAndroidBolivia)** 
+* **[Youtube](https://www.youtube.com/AndroidboliviaOrg)**
+* **[Grupo en Facebook](https://www.facebook.com/groups/GDGAndroidBo/)** 
 
 ¿Tienes alguna duda hacia nosotros? No dudes en escribirnos.
 
