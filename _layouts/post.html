@@ -3,8 +3,8 @@ layout: default
 comments: true
 ---
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}'); opacity: 1">
+    <div class="container" style="background-color: #000; width: 100%; opacity: 0.8">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
@@ -13,34 +13,34 @@ comments: true
                     <h2 class="subheading">{{ page.description }}</h2>
                     {% endif %}
                     <div align="right" style="width: 100%;">
-            <div style="width: auto; height: auto; float: right; margin-top: 2px">
-                <img class="image-member-index" src="{{ page.author_pic }}"/>
-            </div>
-            <div style="float: right; text-align: center; vertical-align: middle; margin-right: 5px">
-                <h5 class="text-post-index">
-                            {% assign m = page.date | date: "%-m" %}
-                            {{ page.date | date: "%-d" }}
-                            {% case m %}
-                              {% when '1' %}Enero
-                              {% when '2' %}Febrero
-                              {% when '3' %}Marzo
-                              {% when '4' %}Abril
-                              {% when '5' %}Mayo
-                              {% when '6' %}Junio
-                              {% when '7' %}Julio
-                              {% when '8' %}Agosto
-                              {% when '9' %}Septiembre
-                              {% when '10' %}Octubre
-                              {% when '11' %}Noviembre
-                              {% when '12' %}Diciembre
-                            {% endcase %}
-                            {{ page.date | date: "%Y" }}
-                            <font size="2em"><b>&middot </b></font><b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}  </b> 
-                </h5>
-            </div>
-            <div style="display: block; margin-left: auto; margin-right: auto"></div>
-            <div style="clear: both"></div>
-        </div>
+                        <div style="width: auto; height: auto; float: right; margin-top: 2px">
+                            <img class="image-member-index" src="{{ page.author_pic }}"/>
+                        </div>
+                        <div style="float: right; text-align: center; vertical-align: middle; margin-right: 5px">
+                            <h5 class="text-post-index">
+                                        {% assign m = page.date | date: "%-m" %}
+                                        {{ page.date | date: "%-d" }}
+                                        {% case m %}
+                                          {% when '1' %}Enero
+                                          {% when '2' %}Febrero
+                                          {% when '3' %}Marzo
+                                          {% when '4' %}Abril
+                                          {% when '5' %}Mayo
+                                          {% when '6' %}Junio
+                                          {% when '7' %}Julio
+                                          {% when '8' %}Agosto
+                                          {% when '9' %}Septiembre
+                                          {% when '10' %}Octubre
+                                          {% when '11' %}Noviembre
+                                          {% when '12' %}Diciembre
+                                        {% endcase %}
+                                        {{ page.date | date: "%Y" }}
+                                        <font size="2em"><b>&middot </b></font><b>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}  </b> 
+                            </h5>
+                        </div>
+                        <div style="display: block; margin-left: auto; margin-right: auto"></div>
+                        <div style="clear: both"></div>
+                    </div>
                 </div>
             </div>
         </div>
