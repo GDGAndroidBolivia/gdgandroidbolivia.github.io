@@ -1,9 +1,15 @@
-<div>
-    Share this on &rarr;
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
-    
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" title="Share on Facebook">Facebook</a>
-    
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
-
-</div>
+<section class="share">
+    <h3>Compartir post</h3>
+    <a aria-label="Compartir en Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.twitter_text }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}"
+    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Compartir en Twitter">
+        <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+    </a>
+    <a aria-label="Compartir en Facebook"href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
+    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Compartir en Facebook">
+        <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+    </a>
+    <a aria-label="Compartir en Google Plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
+    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Compartir en Google+">
+        <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
+    </a>
+</section>
