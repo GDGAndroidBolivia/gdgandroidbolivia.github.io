@@ -365,6 +365,46 @@ hr.small {
 ****************************************************************
 */
 
+.share {
+    *zoom: 1;
+    width: auto;
+    max-width: 800px;
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    border-top: 1px solid #f2f2f2;
+    padding-top: 1.25rem;
+}
+
+.share:before, .share:after {
+    content: '';
+    display: table
+}
+
+.share:after {
+    clear: both
+}
+
+.share svg {
+    margin: .938rem;
+    width: 35px;
+    height: 35px
+}
+
+.share a {
+    text-decoration: none;
+}
+
+.share a:hover svg {
+    fill: #1ABC54
+}
+
+
+
 .image-member-index{
   width: 30px;
   height: 30px;
