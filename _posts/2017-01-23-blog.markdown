@@ -2,7 +2,7 @@
 layout:         post
 published:      true
 comments:       true
-header-img:     /img/post/post_01.jpg
+header-img:     /img/post/post_02.jpg
 date:           2017-01-23 10:00:00
 title:          "Blog GDG"
 description:    "Blog de Android"
