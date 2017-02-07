@@ -141,6 +141,72 @@
   social-ws: 
   social-gm: ale93cq@gmail.com
 
+- member-profile: ../img/team/Samir.jpg
+  member-name: 'Samir Simon'
+  member-job: '#TeamStudyJam'
+  social-fb: nekoiblip.blip
+  social-tw: neblip
+  social-gp: 
+  social-gh: Neblip
+  social-yt: 
+  social-ws: 
+  social-gm: neblip222@gmail.com
+
+- member-profile: ../img/team/JoseLuis.jpg
+  member-name: 'Jose Luis Terrazas'
+  member-job: '#TeamStudyJam'
+  social-fb: joseluis.terrazas.10
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: joseluistb97@gmail.com
+
+- member-profile: ../img/team/Juan.jpg
+  member-name: 'Juan Enrique Rivera'
+  member-job: '#TeamStudyJam'
+  social-fb: juan.riveraquisberth?ref=bookmarks
+  social-tw: 
+  social-gp: 
+  social-gh: quiquex222333
+  social-yt: 
+  social-ws: 
+  social-gm: juane222333@gmail.com
+
+- member-profile: ../img/team/JuanJose.jpg
+  member-name: 'Juan Jose Castillo'
+  member-job: '#TeamStudyJam'
+  social-fb: machoalfajj?ref=bookmarks
+  social-tw: 
+  social-gp: 
+  social-gh: jjcastillodev
+  social-yt: 
+  social-ws: 
+  social-gm: jjandroid2015@gmail.com
+
+- member-profile: ../img/team/Laskar.jpg
+  member-name: 'Laskar Quisbert'
+  member-job: '#TeamStudyJam'
+  social-fb: profile.php?id=100009570286653
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: liquisbert4@gmail.com
+
+- member-profile: ../img/team/Sheyla.jpg
+  member-name: 'Sheyla Zamorano'
+  member-job: '#TeamStudyJam'
+  social-fb: 
+  social-tw: 
+  social-gp: 
+  social-gh: kyublip
+  social-yt: 
+  social-ws: 
+  social-gm: shlzamoran@gmail.com
+
 - member-profile: ../img/team/Adriana.jpg
   member-name: 'Adriana Centellas'
   member-job: '#TeamAndroidTalks'
@@ -283,69 +349,3 @@
   social-yt: channel/UCbg3OZSqD3lJvZ5PeDxqDYA
   social-ws: 
   social-gm: quentasamuel@gmail.com
-
-- member-profile: ../img/team/Samir.jpg
-  member-name: 'Samir Simon'
-  member-job: '#TeamStudyJam'
-  social-fb: nekoiblip.blip
-  social-tw: neblip
-  social-gp: 
-  social-gh: Neblip
-  social-yt: 
-  social-ws: 
-  social-gm: neblip222@gmail.com
-
-- member-profile: ../img/team/JoseLuis.jpg
-  member-name: 'Jose Luis Terrazas'
-  member-job: '#TeamStudyJam'
-  social-fb: joseluis.terrazas.10
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: joseluistb97@gmail.com
-
-- member-profile: ../img/team/Juan.jpg
-  member-name: 'Juan Enrique Rivera'
-  member-job: '#TeamStudyJam'
-  social-fb: juan.riveraquisberth?ref=bookmarks
-  social-tw: 
-  social-gp: 
-  social-gh: quiquex222333
-  social-yt: 
-  social-ws: 
-  social-gm: juane222333@gmail.com
-
-- member-profile: ../img/team/JuanJose.jpg
-  member-name: 'Juan Jose Castillo'
-  member-job: '#TeamStudyJam'
-  social-fb: machoalfajj?ref=bookmarks
-  social-tw: 
-  social-gp: 
-  social-gh: jjcastillodev
-  social-yt: 
-  social-ws: 
-  social-gm: jjandroid2015@gmail.com
-
-- member-profile: ../img/team/Laskar.jpg
-  member-name: 'Laskar Quisbert'
-  member-job: '#TeamStudyJam'
-  social-fb: profile.php?id=100009570286653
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: liquisbert4@gmail.com
-
-- member-profile: ../img/team/Sheyla.jpg
-  member-name: 'Sheyla Zamorano'
-  member-job: '#TeamStudyJam'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: kyublip
-  social-yt: 
-  social-ws: 
-  social-gm: shlzamoran@gmail.com
