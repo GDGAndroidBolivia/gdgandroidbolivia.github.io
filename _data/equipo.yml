@@ -1,6 +1,6 @@
 - member-profile: ../img/post/authors/gusn8.jpg
   member-name: 'Gustavo Lizárraga'
-  member-job: 'Organizer GDG / Study Jams'
+  member-job: 'Organizer: GDG Android Boliva | WTM Wonder City | Study Jams'
   social-fb: Gusn8
   social-tw: Gusn8_
   social-gp: +GustavoLizarraga
@@ -8,6 +8,28 @@
   social-yt: MiraMiCodigo
   social-ws: www.miramicodigo.com
   social-gm: lizarraga.gux@gmail.com
+
+- member-profile: ../img/team/Zuzet.jpg
+  member-name: 'Zuzet Sanga'
+  member-job: 'Organizer WomenTechmakers Wonder City | #TeamStudyJam'
+  social-fb: zuzetkaren.sangamamani.94
+  social-tw: 
+  social-gp: 116387694440336953748?hl=en-GB
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: zuzetkaren8@gmail.com
+
+- member-profile: ../img/team/Genesis.jpg
+  member-name: 'Génesis Mamani'
+  member-job: 'Organizer WomenTechmakers Wonder City | #TeamStudyJam' 
+  social-fb: GhenesisMtl
+  social-tw: GhenesisZul
+  social-gp: u/0/109852195509293155005
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: tozulm@gmail.com
 
 - member-profile: ../img/team/Marcelo.jpg
   member-name: 'Marcelo Torrez'
@@ -52,28 +74,6 @@
   social-yt: 
   social-ws: 
   social-gm: cesarticona.cc92@gmail.com
-
-- member-profile: ../img/team/Zuzet.jpg
-  member-name: 'Zuzet Sanga'
-  member-job: '#TeamAndroidLabs'
-  social-fb: zuzetkaren.sangamamani.94
-  social-tw: 
-  social-gp: 116387694440336953748?hl=en-GB
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: zuzetkaren8@gmail.com
-
-- member-profile: ../img/team/Genesis.jpg
-  member-name: 'Génesis Mamani'
-  member-job: '#TeamStudyJam' 
-  social-fb: GhenesisMtl
-  social-tw: GhenesisZul
-  social-gp: u/0/109852195509293155005
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: tozulm@gmail.com
 
 - member-profile: ../img/team/Alex.jpg
   member-name: 'Alex Cardeña'
