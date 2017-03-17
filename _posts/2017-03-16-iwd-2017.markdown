@@ -16,6 +16,7 @@ gh_user: Gusn8
 yt_user: GustavoLizarraga
 ws_user: www.miramicodigo.com
 email: lizarraga.gux@gmail.com
+permalink: iwd
 ---
 ## Objetivos
 
