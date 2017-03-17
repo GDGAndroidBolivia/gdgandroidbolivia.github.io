@@ -17,7 +17,7 @@ yt_user: GustavoLizarraga
 ws_user: www.miramicodigo.com
 email: lizarraga.gux@gmail.com
 ---
-![Publicidad]({{site.baseurl}}/_posts/BannerG%2B.png)![BannerG+.png]({{site.baseurl}}/_posts/BannerG+.png)
+[BannerG+.png]({{site.baseurl}}/_posts/BannerG+.png)
 
 ## Objetivos
 
