@@ -1,9 +1,6 @@
 ---
-published: true
----
----
-layout:         post
 published:      true
+layout:         post
 comments:       true
 header-img:     /img/post/post_01_head.jpg
 date:           2017-01-20 10:00:00
