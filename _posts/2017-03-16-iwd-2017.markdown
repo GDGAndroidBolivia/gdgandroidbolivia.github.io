@@ -3,19 +3,19 @@ published: true
 layout: post
 comments: true
 header-img: /img/post/post_02_head.JPG
-date: 2017-03-16T10:00:00.000Z
+date: 2017-03-17T00:01:00.000Z
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
 author: Genesis Mamani
 author_pic: /img/team/Genesis.jpg
-bio: 'UI/UX Designer, Fron-end & Mobile Dev'
-fb_user: Gusn8
-tw_user: Gusn8_
-gp_user: GustavoLizarraga
+bio: Organizer Women Techmakers Wonder City
+fb_user: GhenesisMtl
+tw_user: GhenesisZul
+gp_user: 109852195509293150000
 gh_user: Gusn8
 yt_user: GustavoLizarraga
 ws_user: www.miramicodigo.com
-email: lizarraga.gux@gmail.com
+email: tozulm@gmail.com
 permalink: iwd17
 ---
 ## Objetivos
