@@ -9,6 +9,12 @@
         <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
     {% endif %}
     <meta property="og:description" content="{{ page.description }}" />
+    
+    <meta name="description" content="{{ post.description }}">
+    {% if post.header-img %}
+        <meta property="og:image" content="{{ site.url }}/{{ post.header-img }}" />
+    {% endif %}
+    <meta property="og:description" content="{{ post.description }}" />
 
     
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
