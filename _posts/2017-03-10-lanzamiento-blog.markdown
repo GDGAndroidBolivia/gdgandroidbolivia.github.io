@@ -37,6 +37,8 @@ En el `Blog` del **GDG Android Bolivia** encontrarán toda nuestra información 
 Durante la gestión 2017 tendremos muchas actividades que irémos llevando a cabo, estamos prestos a sugerencias, alianzas, todo apoyo es bienvenido.
 Algunas actividades que continuaremos llevando a cabo son:
 
+* **International Women's Day**
+    - Este año sera el primer que llevemos a cabo.
 * **Android Talks**
     - El año 2016 llevámos a cabo `13` Talks, este año continuaremos llevandolos a cabo.
 * **Android Labs**
