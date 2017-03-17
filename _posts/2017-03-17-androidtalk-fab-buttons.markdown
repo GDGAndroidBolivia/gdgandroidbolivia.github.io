@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 comments: true
 header-img: /img/post/Android Talk 14 - BannerTalks-FB.jpg
-date: 2017-03-17T00:01:00.000Z
+date: {}
 title: 'FAB Buttons, Que puedo hacer con ellos?'
 description: 'Android Talk #14'
 author: Alan Ortiz
