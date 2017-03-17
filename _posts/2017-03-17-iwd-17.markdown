@@ -89,34 +89,41 @@ Definitivamente fueron muchas las cosas que les gustaron a los participantes ent
 
 ## Organización
 
-Todo el evento fue organizado conjuntamente entre el **Women Techmakers Wonder City** y el **GDG Android Bolivia**,dando así a las principales organizadoras encargadas del evento IWD asi mismo WTM Wonder City:
+![Organizacion IWD]({{site.baseurl}}/img/post/post_02_orga.jpg)
 
-* [Genesis Mamani](https://www.facebook.com/GhenesisMtl/Markdown)
-* [Zuzet Sanga](https://www.facebook.com/zuzetkaren.sangamamani.94/)
+Todo el evento fue organizado conjuntamente entre el **Women Techmakers Wonder City** y el **GDG Android Bolivia**, cuyas organizadoras del evento fueron:
+
+* **[Genesis Mamani](https://www.facebook.com/GhenesisMtl/)**
+* **[Zuzet Sanga](https://www.facebook.com/zuzetkaren.sangamamani.94/)**
 
 Damos un agradecimiento a todo el equipo de la organización que hizo posible éste maravilloso evento:
 
-* [Laura Aguilar](htttp)
-* [Jhenny Huanca](https://www.facebook.com/jhenyfer.huancaticona/markdown)
-* [Heidy ](https://www.facebook.com/luz.heidy.loza?fref=ts/Mardown)
-* [Laura Cossio](https://www.facebook.com/laurita.c.quiroga/Markdown)
-* [Marisabel](http)
-* [Adriana Centellas](https://www.facebook.com/adriana.centellas1/Markdown)
-* [Sheyla Zamorano](https://www.facebook.com/kyublip.noun?fref=ts/markdown)
-* [Samir](https://www.facebook.com/nekoiblip.blip/markdown)
-* [Gustavo Lizárraga](https://www.facebook.com/Gusn8/markdown)
-* [Marcelo Torrez](https://www.facebook.com/profile.php?id=100010053942421/markdown)
-* [Julio Ticona](https://www.facebook.com/cesar.ju.37/markdown)
-* [Remmy Calamani](https://www.facebook.com/remmy.calamaniquispe/markdown)
-* [Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas/markdown)
-* [Enrique Rivera](https://www.facebook.com/juan.riveraquisberth?ref=bookmarks/markdown)
-* [Alejandro Mancilla](https://www.facebook.com/alejandro.mancilla.125?ref=bookmarks/markdown)
-* [Jorge Callisaya](https://www.facebook.com/jorge.callisaya/markdown)
-* [Franco](http)
-* [Angel](http)
-
-
-
+* **[Laura Aguilar](htttp)**
+* **[Jhenny Huanca](https://www.facebook.com/jhenyfer.huancaticona/)**
+* **[Heidy Loza](https://www.facebook.com/luz.heidy.loza?fref=ts/)**
+* **[Laura Cossio](https://www.facebook.com/laurita.c.quiroga/)**
+* **[Maria Belen Poma](https://www.facebook.com/)**
+* **[Marisabel Condori](#)**
+* **[Adriana Centellas](https://www.facebook.com/adriana.centellas1/)**
+* **[Sheyla Zamorano](https://www.facebook.com/kyublip.noun?fref=ts/)**
+* **[Samir Simon](https://www.facebook.com/nekoiblip.blip/)**
+* **[Gustavo Lizárraga](https://www.facebook.com/Gusn8/)**
+* **[Marcelo Torrez](https://www.facebook.com/profile.php?id=100010053942421/)**
+* **[Julio Ticona](https://www.facebook.com/cesar.ju.37/)**
+* **[Remmy Calamani](https://www.facebook.com/remmy.calamaniquispe/)**
+* **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas/)**
+* **[Juan Rivera](https://www.facebook.com/juan.riveraquisberth?ref=bookmarks/)**
+* **[Alejandro Mancilla](https://www.facebook.com/alejandro.mancilla.125?ref=bookmarks/)**
+* **[Laskar Quisbert](#)**
+* **[Gunar Ortiz](#)**
+* **[Jorge Callisaya](https://www.facebook.com/jorge.callisaya/)**
+* **[Franco Catacora](#)**
+* **[Angel Camargo](#)**
+* **[Samuel Quenta](#)**
+* **[Miguel Murillo](#)**
+* **[Alejandro Quea](#)**
+* **[Andres Rivero](#)**
+* **[Jose Luis Terrazas](#)**
 
 ## Conclusiones
 
