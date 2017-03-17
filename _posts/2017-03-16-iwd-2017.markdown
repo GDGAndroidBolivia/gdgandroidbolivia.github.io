@@ -26,6 +26,7 @@ El Día Internacional de la Mujer es un momento importante para reconocer cómo 
 Cumbres y encuentros alrededor del mundo pueden ofrecer talleres de codificación prácticos, oradores inspiradores y oportunidades de trabajo en red.
 
 ## Celebrando el Día Internacional de la Mujer
+![aaa]({{site.baseurl}}/_posts/images/im1.jpg)
 
 > Recordando lo que que fue el **International Women Day (IWD)** el cual se llevo en la carrera de Informática en la Universidad Mayor de San Andrés y fue un éxito total.
 
