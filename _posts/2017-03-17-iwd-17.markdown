@@ -83,6 +83,8 @@ En el siguiente Album de fotos les mostramos las actividades que hubieron en el 
 
 ## Repercusiones / Feedback
 
+![Parte del Feedback recibido]({{site.baseurl}}/img/post/post_02_feedback.png)
+
 Definitivamente fueron muchas las cosas que les gustaron a los participantes entre ellas la organización, la acogida, los juegos pero cabe destacar que fueron las charlas lo mas **resaltante** ya que cada una traía consigo un toque distinto que daba una nueva perspectiva a cada persona.
 
 ## Organización
