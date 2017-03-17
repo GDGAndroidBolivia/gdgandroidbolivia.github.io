@@ -7,7 +7,7 @@ date: 2017-03-16T10:00:00.000Z
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
 author: Genesis Mamani
-author_pic: /img/post/authors/gusn8.jpg
+author_pic: /img/team/Genesis.jpg
 bio: 'UI/UX Designer, Fron-end & Mobile Dev'
 fb_user: Gusn8
 tw_user: Gusn8_
@@ -16,7 +16,7 @@ gh_user: Gusn8
 yt_user: GustavoLizarraga
 ws_user: www.miramicodigo.com
 email: lizarraga.gux@gmail.com
-permalink: iwd
+permalink: iwd17
 ---
 ## Objetivos
 
