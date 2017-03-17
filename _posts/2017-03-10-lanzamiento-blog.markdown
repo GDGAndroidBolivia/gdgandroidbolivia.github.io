@@ -24,7 +24,7 @@ email: lizarraga.gux@gmail.com
 
 # La razón
 
-Hace varios largos y ajetreados años que realizamos actividades y siempre tenía la idea de hacer persistente toda la información que se genera en todos nuestros eventos (documentación, código, proyectos, presentaciones, etc), pero por distintas situaciones: *problemas*, ~~trabajo~~, familia u otras actividades que surgen en el día a día no se logró realizar algo.
+Hace varios 6 largos y ajetreados años aproximadamente que realizamos actividades y siempre tenía la idea de hacer persistente toda la información que se genera en todos nuestros eventos (documentación, código, proyectos, presentaciones, etc), pero por distintas situaciones: *problemas*, ~~trabajo~~, familia u otras actividades que surgen en el día a día no se logró realizar algo.
 
 Conversando con amigos de distintos **[GDG](http://developers.google.com/groups/)** a nivel latinoamérica, pude percibir que pasan por una situación similar, pero existen algunos que sí se propusieron a hacer "**la diferencia**" y generar material de distintas formas: repositorios, wikis, blogs, videotutoriales, podcasts, MOOCs, etc. En ese plan me puse una *meta*, el sacarme tiempo para colocar la *semillita* que anime a la comunidad a generar algún tipo de material (inicialmente) y así fué que de cuando en cuando me puse a hacer unas cuantas líneas de código del blog de la comunidad.
 
