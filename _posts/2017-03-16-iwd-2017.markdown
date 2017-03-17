@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-header-img: /img/post/post_01_head.jpg
+header-img: /img/post/post_02_head.JPG
 date: 2017-03-16T10:00:00.000Z
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
@@ -17,8 +17,6 @@ yt_user: GustavoLizarraga
 ws_user: www.miramicodigo.com
 email: lizarraga.gux@gmail.com
 ---
-![BannerG+.png]({{site.baseurl}}/_posts/BannerG+.png)
-
 ## Objetivos
 
 El Día Internacional de la Mujer es un momento importante para reconocer cómo las mujeres han influido y lo siguen haciendo en la industria tecnológica y más allá.
@@ -26,7 +24,6 @@ El Día Internacional de la Mujer es un momento importante para reconocer cómo 
 Cumbres y encuentros alrededor del mundo pueden ofrecer talleres de codificación prácticos, oradores inspiradores y oportunidades de trabajo en red.
 
 ## Celebrando el Día Internacional de la Mujer
-![aaa]({{site.baseurl}}/_posts/images/im1.jpg)
 
 > Recordando lo que que fue el **International Women Day (IWD)** el cual se llevo en la carrera de Informática en la Universidad Mayor de San Andrés y fue un éxito total.
 
@@ -51,9 +48,6 @@ El día del evento tuvimos personas que quisieron inscribirse pero por el espaci
 ## El evento
 
 Durante el evento tuvimos un total de 6 charlas de la mano de 6 expositoras conjuntamente tuvimos dos juegos, en el cual las personas estuvieron felices de participar.
-
-![ssss]({{site.baseurl}}/img/post/ancho face.png)
-
 
 ## Las expositoras
 
