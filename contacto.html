@@ -13,25 +13,25 @@ header-img: "/img/bg-contacto.jpg"
         Envíanos un correo electrónico o ponte en contacto desde alguna de nuestras redes sociales.
     </h4></br>
 </center>
-<!--<form name="sentMessage" id="contactForm" novalidate>
+<form action="http://formspree.io/androidlapaz@gmail.com" method="POST">
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label class="text-body">Nombre</label>
-            <input type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Ingrese acá su nombre.">
+            <input type="text" class="form-control" placeholder="Nombre" required data-validation-required-message="Ingrese acá su nombre.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Correo electrónico</label>
-            <input type="email" class="form-control" placeholder="Dirección de correo electrónico" id="email" required data-validation-required-message="Ingrese aca su correo electrónico.">
+            <input type="email" class="form-control" placeholder="Dirección de correo electrónico" name="_replyto" required data-validation-required-message="Ingrese aca su correo electrónico.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Mensaje</label>
-            <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required data-validation-required-message="Ingrese aca su pregunta."></textarea>
+            <textarea rows="5" class="form-control" placeholder="Mensaje" name="body" required data-validation-required-message="Ingrese aca su pregunta."></textarea>
             <p class="help-block text-danger"></p>
         </div>
     </div>
@@ -39,14 +39,8 @@ header-img: "/img/bg-contacto.jpg"
     <div id="success"></div>
     <div class="row">
         <div class="form-group col-xs-12">
-            <button type="submit" class="btn btn-default">Enviar</button>
+            <input type="submit" class="btn btn-default" value="Enviar"></input>
         </div>
     </div>
-</form>-->
-
-<form action="http://formspree.io/androidlapaz@gmail.com" method="POST">
-  <input type="email" name="_replyto"/>
-  <textarea name="body"></textarea>
-  <input type="submit" value="Send"/>
 </form>
 
