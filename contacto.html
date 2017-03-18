@@ -13,7 +13,7 @@ header-img: "/img/bg-contacto.jpg"
         Envíanos un correo electrónico o ponte en contacto desde alguna de nuestras redes sociales.
     </h4></br>
 </center>
-<form name="sentMessage" id="contactForm" novalidate>
+<!--<form name="sentMessage" id="contactForm" novalidate>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label class="text-body">Nombre</label>
@@ -42,18 +42,11 @@ header-img: "/img/bg-contacto.jpg"
             <button type="submit" class="btn btn-default">Enviar</button>
         </div>
     </div>
+</form>-->
+
+<form action="http://formspree.io/androidlapaz@gmail.com" method="POST">
+  <input type="email" name="_replyto"/>
+  <textarea name="body"></textarea>
+  <input type="submit" value="Send"/>
 </form>
 
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/gdgandroidbolivia'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
