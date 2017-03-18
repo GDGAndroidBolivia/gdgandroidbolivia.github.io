@@ -1,3 +1,3 @@
-#GDG Android Bolivia Blog
+# GDG Android Bolivia | Blog
 
-Esta es la pagina oficial del GDG Android Bolivia
+Esta es la pagina oficial del GDG Android Bolivia.
