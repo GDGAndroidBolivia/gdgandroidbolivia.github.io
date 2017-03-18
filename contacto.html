@@ -17,7 +17,7 @@ header-img: "/img/bg-contacto.jpg"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label class="text-body">Nombre</label>
-            <input type="text" class="form-control" placeholder="Nombre" required data-validation-required-message="Ingrese acá su nombre.">
+            <input type="text" name="name" class="form-control" placeholder="Nombre" required data-validation-required-message="Ingrese acá su nombre.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
@@ -42,5 +42,7 @@ header-img: "/img/bg-contacto.jpg"
             <input type="submit" class="btn btn-default" value="Enviar"></input>
         </div>
     </div>
+
+    <input type="hidden" name="_next" value="http://www.gdg.androidbolivia.com" />
 </form>
 
