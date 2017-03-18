@@ -2,6 +2,7 @@
 layout: post
 published: true
 comments: true
+categories:	wtm
 header-img: /img/post/post_01_head.jpg
 date: 2017-03-10T10:00:00.000Z
 title: Lanzamiento blog GDG Android Bolivia
