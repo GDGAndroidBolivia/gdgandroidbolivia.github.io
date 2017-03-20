@@ -3,7 +3,7 @@ published: true
 layout: post
 comments: true
 header-img: /img/post/post_02_head.JPG
-date: 2017-03-17T00:01:00.000Z
+date: {}
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
 author: Genesis Mamani
@@ -24,13 +24,13 @@ Cumbres y encuentros alrededor del mundo pueden ofrecer talleres de codificació
 
 ## Celebrando el Día Internacional de la Mujer
 
-> Recordando lo que que fue el **International Women's Day - Wonder City Edition** el cual se llevó a cabo en la carrera de Informática en la Universidad Mayor de San Andrés y fue un éxito total.
+> Recordando lo que que fue el **International Women's Day - Wonder City Edition** el cual se llevó a cabo en la carrera de Informática en la Universidad Mayor de San Andrés siendo un éxito total.
 
 Tuvimos charlas de mujeres muy resaltantes en el ámbito, todos aprendimos algo y es que cada uno de éstos temas trajo consigo el toque de interés en cada persona y se debe a que tuvimos de todo un poco.
 
 Fuera de ello sabemos que el objetivo a nivel mundial del programa **Women Techmakers** es incentivar el uso, desarrollo y empoderamiento de mujeres en tecnología, de esa forma las expectativas de este evento fueron cumplidas y todo se debe al porcentaje de asistentes mujeres el cual fue mayor al **90%**.
 
-Esperamos ansiosamente que en eventos futuros se mantengan estos porcentajes y sobre todo que mas mujeres se animen a participar de eventos tecnológicos.
+Esperamos ansiosamente que en eventos futuros se mantengan estos porcentajes y sobre todo que más mujeres se animen a participar de eventos tecnológicos.
 
 ## El alcance
 
@@ -131,4 +131,4 @@ Asi mismo damos un agradecimiento especial al **[Postgrado en Informática](http
 
 El **International Women's Day - Wonder City Edition** cumplió las expectativas que teníamos dando así como tal un *IWD* muy exitoso y que de alguna forma éste nuestro primer evento como **Women Techmakers Wonder City** salieron mujeres dispuestas a cumplir cada meta que se propongan y así mismo con participantes satisfechas y motivadas a seguir adelante.
 
-Ahora queda continuar con nuevas y buenas actividades en pro de mejorar el ecosistema tecnologico de nuestro pais, con todo el apoyo y fuerza del **GDG Android Bolivia**.
+Ahora queda continuar con nuevas y buenas actividades en pro de mejorar el ecosistema tecnológico de nuestro país, con todo el apoyo y fuerza del **GDG Android Bolivia**.
