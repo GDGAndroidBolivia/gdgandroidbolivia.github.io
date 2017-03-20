@@ -3,7 +3,7 @@ published: true
 layout: post
 comments: true
 header-img: /img/post/post_02_head.JPG
-date: {}
+date: Festejamos a las mujeres en su día
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
 author: Genesis Mamani
