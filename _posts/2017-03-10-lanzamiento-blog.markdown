@@ -2,9 +2,9 @@
 layout: post
 published: true
 comments: true
-categories:	wtm
+categories: wtm
 header-img: /img/post/post_01_head.jpg
-date: 2017-03-10T10:00:00.000Z
+date: 2017-03-18T10:00:00.000Z
 title: Lanzamiento blog GDG Android Bolivia
 description: >-
   Iniciamos oficialmente el Blog del GDG Android Bolivia, donde tendremos
@@ -25,13 +25,13 @@ email: lizarraga.gux@gmail.com
 
 # La razón
 
-Hace varios 6 largos y ajetreados años aproximadamente que realizamos actividades y siempre tenía la idea de hacer persistente toda la información que se genera en todos nuestros eventos (documentación, código, proyectos, presentaciones, etc), pero por distintas situaciones: *problemas*, ~~trabajo~~, familia u otras actividades que surgen en el día a día no se logró realizar algo.
+Hace 6 varios largos y ajetreados años aproximadamente que realizamos actividades y siempre tenía la idea de hacer persistente toda la información que se genera en todos nuestros eventos (documentación, código, proyectos, presentaciones, etc), pero por distintas situaciones: *problemas*, ~~trabajo~~, familia u otras actividades que surgen en el día a día no se logró realizar algo.
 
 Conversando con amigos de distintos **[GDG](http://developers.google.com/groups/)** a nivel latinoamérica, pude percibir que pasan por una situación similar, pero existen algunos que sí se propusieron a hacer "**la diferencia**" y generar material de distintas formas: repositorios, wikis, blogs, videotutoriales, podcasts, MOOCs, etc. En ese plan me puse una *meta*, el sacarme tiempo para colocar la *semillita* que anime a la comunidad a generar algún tipo de material (inicialmente) y así fué que de cuando en cuando me puse a hacer unas cuantas líneas de código del blog de la comunidad.
 
 ## El Blog
 
-En el `Blog` del **GDG Android Bolivia** encontrarán toda nuestra información acerca de los eventos que realizamos en **[posts](/)**, tambien una pequeña reseña histórica asi como el equipo que esta a la cabeza del 2017 en el GDG, también una sección para **[contactarse](/contacto)** con nosotros, una **[galería](/galeria)** de imágenes donde encontrarán varios álbums de fotos de todos nuestros eventos y finalmente podrás encontrar la seccion de **[tienda](/tienda)**, que es donde tu puedes apoyarnos comprardo algun regalo para ti o para la persona que aprecies.
+En el `Blog` del **GDG Android Bolivia** encontrarán toda nuestra información acerca de los eventos que realizamos en **[posts](http://www.gdg.androidbolivia.com/)**, tambien una pequeña reseña histórica asi como el equipo que esta a la cabeza del 2017 en el GDG, también una sección para **[contactarse](http://www.gdg.androidbolivia.com/contacto)** con nosotros, una **[galería](http://www.gdg.androidbolivia.com/galeria)** de imágenes donde encontrarán varios álbums de fotos de todos nuestros eventos y finalmente podrás encontrar la seccion de **[tienda](http://www.gdg.androidbolivia.com/tienda)**, que es donde tu puedes apoyarnos comprardo algun regalo para ti o para la persona que aprecies.
 
 ## Nuestras actividades
 
