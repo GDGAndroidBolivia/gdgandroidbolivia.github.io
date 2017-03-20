@@ -3,7 +3,7 @@ published: true
 layout: post
 comments: true
 header-img: /img/post/post_01_head.jpg
-date: {}
+date: '2017-03-18 00:01:00 +0800'
 description: >-
   Iniciamos oficialmente el Blog del GDG Android Bolivia, donde tendremos
   persistente toda información que se genere en la comunidad
