@@ -58,6 +58,7 @@ Puedes colocarte en contacto con nosotros por nuestras distintas redes sociales 
 * **[Youtube](https://www.youtube.com/AndroidboliviaOrg)**
 * **[Grupo en Facebook](https://www.facebook.com/groups/GDGAndroidBo/)** 
 
-¿Tienes alguna duda hacia nosotros? No dudes en escribirnos.
+¿Tienes alguna duda hacia nosotros? 
+No dudes en escribirnos.
 
 ***GDG Android Bolivia***
