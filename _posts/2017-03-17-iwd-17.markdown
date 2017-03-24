@@ -3,7 +3,7 @@ published: true
 layout: post
 comments: true
 header-img: /img/post/post_02_head.JPG
-date: 2017-03-17T00:01:00.000Z
+date: 2017-03-20T10:00:00.000Z
 title: Festejamos a las mujeres en su día
 description: En el International Women's Day - Wonder City Edition
 author: Genesis Mamani
@@ -24,13 +24,13 @@ Cumbres y encuentros alrededor del mundo pueden ofrecer talleres de codificació
 
 ## Celebrando el Día Internacional de la Mujer
 
-> Recordando lo que que fue el **International Women's Day - Wonder City Edition** el cual se llevó a cabo en la carrera de Informática en la Universidad Mayor de San Andrés y fue un éxito total.
+> Recordando lo que que fue el **International Women's Day - Wonder City Edition** el cual se llevó a cabo en la carrera de Informática en la Universidad Mayor de San Andrés siendo un éxito total.
 
 Tuvimos charlas de mujeres muy resaltantes en el ámbito, todos aprendimos algo y es que cada uno de éstos temas trajo consigo el toque de interés en cada persona y se debe a que tuvimos de todo un poco.
 
 Fuera de ello sabemos que el objetivo a nivel mundial del programa **Women Techmakers** es incentivar el uso, desarrollo y empoderamiento de mujeres en tecnología, de esa forma las expectativas de este evento fueron cumplidas y todo se debe al porcentaje de asistentes mujeres el cual fue mayor al **90%**.
 
-Esperamos ansiosamente que en eventos futuros se mantengan estos porcentajes y sobre todo que mas mujeres se animen a participar de eventos tecnológicos.
+Esperamos ansiosamente que en eventos futuros se mantengan estos porcentajes y sobre todo que más mujeres se animen a participar de eventos tecnológicos.
 
 ## El alcance
 
@@ -48,15 +48,15 @@ Durante el evento tuvimos un total de 6 charlas de la mano de *6 expositoras* co
 
 Ocho mujeres, las cuales expusieron acerca de distintos temas entre las cuales se encuentran: 
 
-* **[Rosa Flores](http)**, nos mostró el tema de **Aplicaciones de Realidad Virtual** ([Slides](http)), el cual estuvo acompañado de experiencias que tuvo la expositora con este campo de la tecnología.
+* **[Rosa Flores](https://www.facebook.com/rosafloresmorales?fref=ts)**, nos mostró el tema de **Aplicaciones de Realidad Virtual** ([Slides](https://drive.google.com/file/d/0B_rBoPD836dIcmdoQklkWDZWV1E/view?usp=sharing)), el cual estuvo acompañado de experiencias que tuvo la expositora con este campo de la tecnología.
 
-* **[Mónica Chuquimia](http)**, expuso el tema de **Mujeres Innovando** ([Slides](http)), en el cuál aprendimos sobre la importancia de la mujer y motivación para cada una de nosotras. Además de divertirnos con un par de dinámicas.
+* **[Mónica Chuquimia](https://www.facebook.com/monica.ch.r.2016?fref=ts)**, expuso el tema de **Mujeres Innovando** ([Slides](#)), en el cuál aprendimos sobre la importancia de la mujer y motivación para cada una de nosotras. Además de divertirnos con un par de dinámicas.
 
-* **[Bhylenia Rios](http)**, nos embelesó con **La mujer profesional y su entorno Global** ([Slides](http)), en el cual nos compartió tips para los momentos en que cada persona va preparándose para el mundo profesional y que le espera.
+* **[Bhylenia Rios](#)**, nos embelesó con **La mujer profesional y su entorno Global** ([Slides](#)), en el cual nos compartió tips para los momentos en que cada persona va preparándose para el mundo profesional y que le espera.
 
-* **[Eliana Quiroz](https://www.facebook.com/eliana.quiroz?fref=ts)**, nos hizo ver **Machismo Feminismo y tecnología** ([Slides](https://drive.google.com/file/d/0B_rBoPD836dIb1VwWFRQM2ViMzQ/view?usp=sharing)),desde un punto de vista en el que todos aprendimos lo que realmente significa y conlleva ser *feminista*, *machista* y que relación lleva con la tecnología.
+* **[Eliana Quiroz](https://www.facebook.com/eliana.quiroz?fref=ts)**, nos hizo ver **Machismo Feminismo y tecnología** ([Slides](https://drive.google.com/file/d/0B_rBoPD836dIb1VwWFRQM2ViMzQ/view?usp=sharing)),desde un punto de vista en el que todos aprendimos lo que realmente significa y conlleva ser *feminista*, *machista* y que relación lleva con la *tecnología*.
 
-* **[Menfy Morales](http)**, trajo consigo a **[Carmen Huanca](http)** y **[Heidy Condori](http)** las cuales expusieron el tema **Modelo de comportamiento de bio-indicadores de las condiciones meteorológicas de riesgo con el apoyo de tecnología móvil** ([Slides](http)), y nos trajeron información acerca de una aplicación desarrollada por ellas.
+* **[Menfy Morales](https://www.facebook.com/profile.php?id=100011629898352&fref=ts)**, trajo consigo a **[Carmen Huanca](#)** y **[Heidy Condori](https://www.facebook.com/luz.heidy.loza?fref=ts)** las cuales expusieron el tema **Modelo de comportamiento de bio-indicadores de las condiciones meteorológicas de riesgo con el apoyo de tecnología móvil** ([Slides](https://drive.google.com/file/d/0B_rBoPD836dIMGcxYmJ2ZFhJVDg/view?usp=sharing)), y nos trajeron información acerca de una aplicación desarrollada por ellas.
 
 * **[Carolina Silva](https://www.facebook.com/carolinne5.10?fref=ts)** y su tema **Diseñadoras de la tecnología** ([Slides](https://drive.google.com/file/d/0B_rBoPD836dIa0trcGZhTUVmYkU/view?usp=sharing)), trajo un inmenso interés en las participantes por la robótica y curiosidad por éste mundo, la cual fue muy inspirador.
 
@@ -79,7 +79,7 @@ Se tuvo una pequeña cobertura a traves del **Canal Universitario** en el cual n
 
 ## Álbum de fotografías
 
-En el siguiente Album de fotos les mostramos las actividades que hubieron en el evento, asi como las expositoras recibiendo sus presentes en agradecimiento por su apoyo en el evento: [Álbum de fotos IWD](https://photos.google.com/share/AF1QipPHEqGP4EcUIvolqYaGmhUy_7DEh5MYKaZqfwaqtxsrbNbLlFPVqDYIxIiDRa36sw?key=STRVRnhzdlpsSU94T2RHbnkyX001cUxFVDkzZV9R/Markdown)
+En el siguiente álbum de fotos les mostramos las actividades que hubieron en el evento, asi como las expositoras recibiendo sus presentes en agradecimiento por su apoyo en el evento: [Álbum de fotos IWD](https://photos.google.com/share/AF1QipPHEqGP4EcUIvolqYaGmhUy_7DEh5MYKaZqfwaqtxsrbNbLlFPVqDYIxIiDRa36sw?key=STRVRnhzdlpsSU94T2RHbnkyX001cUxFVDkzZV9R/Markdown)
 
 ## Repercusiones / Feedback
 
@@ -131,4 +131,4 @@ Asi mismo damos un agradecimiento especial al **[Postgrado en Informática](http
 
 El **International Women's Day - Wonder City Edition** cumplió las expectativas que teníamos dando así como tal un *IWD* muy exitoso y que de alguna forma éste nuestro primer evento como **Women Techmakers Wonder City** salieron mujeres dispuestas a cumplir cada meta que se propongan y así mismo con participantes satisfechas y motivadas a seguir adelante.
 
-Ahora queda continuar con nuevas y buenas actividades en pro de mejorar el ecosistema tecnologico de nuestro pais, con todo el apoyo y fuerza del **GDG Android Bolivia**.
+Ahora queda continuar con nuevas y buenas actividades en pro de mejorar el ecosistema tecnológico de nuestro país, con todo el apoyo y fuerza del **GDG Android Bolivia**.
