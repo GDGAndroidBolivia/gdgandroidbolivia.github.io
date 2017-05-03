@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-header-img: img/post/post_02.jpg
+header-img: img/post/post_03_head.jpg
 date: 2017-05-02T10:00:00.000Z
 subtitle: Android Talk 14
 author: Alan Ortiz
