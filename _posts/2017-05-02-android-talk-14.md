@@ -18,6 +18,8 @@ email: lizarraga.gux@gmail.com
 title: 'FAB Buttons, ¿Que puedo hacer con ellos?'
 description: Android Talk 14
 ---
+Puedes ver la grabacion del Android Talk, en el siguiente video, no olvides suscribirte.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cc8MUHxBN5E" frameborder="0" allowfullscreen></iframe>
 
 
