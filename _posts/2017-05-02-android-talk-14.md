@@ -2,9 +2,9 @@
 published: true
 layout: post
 comments: true
-header-img: img/post/post_03.jpg
-date: {}
-subtitle: Android Talk 14.
+header-img: img/post/post_02.jpg
+date: 2017-05-02T10:00:00.000Z
+subtitle: Android Talk 14
 author: Alan Ortiz
 author_pic: /img/team/Alan.jpg
 bio: 'Estudiante Carrera de Informatica, Back-end, Organizer GDG Android Bolivia'
@@ -16,6 +16,7 @@ yt_user: null
 ws_user: null
 email: lizarraga.gux@gmail.com
 title: 'FAB Buttons, ¿Que puedo hacer con ellos?'
+description: Android Talk 14
 ---
 
 # FAB buttons: ¿Que puedo hacer con ellos?
