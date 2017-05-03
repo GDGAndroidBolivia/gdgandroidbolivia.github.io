@@ -40,7 +40,7 @@ Entonces en resumen, un FAB es un boton muy importante dentro de una aplicacion 
 ## Recomendaciones
 **Un FAB por pantalla**
 
-<img src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseVdNVnYtc0loblk/patterns_actions_fab_placement10.png" width="3em">
+<img src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseVdNVnYtc0loblk/patterns_actions_fab_placement10.png" width="50%">
 
 Una de las cosas importantes a la hora de implementar un FAB es no usar mas de un FAB en la activity principal, esto se debe a que como indica la deficion "representa la acción primaria" si colocamos mas FAB al mismo tiempo en la pantalla, el usuario quedara muy confundido de cual de ellos accionar para la acción principal que quiere realizar.
 
