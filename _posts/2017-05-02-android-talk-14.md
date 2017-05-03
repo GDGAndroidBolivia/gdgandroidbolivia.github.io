@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 comments: true
 header-img: img/post/post_03.jpg
