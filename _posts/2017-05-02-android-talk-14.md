@@ -39,31 +39,32 @@ Entonces en resumen, un FAB es un boton muy importante dentro de una aplicacion 
 ## Recomendaciones
 **Un FAB por pantalla**
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseVdNVnYtc0loblk/patterns_actions_fab_placement10.png
+![Imagen](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseVdNVnYtc0loblk/patterns_actions_fab_placement10.png)
 
 Una de las cosas importantes a la hora de implementar un FAB es no usar mas de un FAB en la activity principal, esto se debe a que como indica la deficion "representa la acción primaria" si colocamos mas FAB al mismo tiempo en la pantalla, el usuario quedara muy confundido de cual de ellos accionar para la acción principal que quiere realizar.
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrTWlzUzcwS3hpU3c/patterns_actions_fab_placement8.png
+![Img](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrTWlzUzcwS3hpU3c/patterns_actions_fab_placement8.png)
 
 
 **La Forma de un FAB**
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrekhFaTJmbDhSM0U/patterns_actions_fab_qualities6.png
+![img](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrekhFaTJmbDhSM0U/patterns_actions_fab_qualities6.png)
 
 La forma de un FAB debe ser "un circulo de color plano con un icono sencillo", cuando se cambia la forma o se le da un volumen o bien llega a perderse y no resaltar en la pantalla o bien llega a superponerse demasiado y distraer al usuario del resto de los componentes distribuidos en la pantalla.
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrOHBsN0xtTFJ5aEE/patterns_actions_fab_qualities5.png
+![img](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B1PhAWhtrRTrOHBsN0xtTFJ5aEE/patterns_actions_fab_qualities5.png)
 
 **Toolbar**
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsbjUzX1ZOei1uazA/patterns_actions_fab_actions12.png
+
+![img](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsbjUzX1ZOei1uazA/patterns_actions_fab_actions12.png)
 
 Si queremos mostrar acciones importantes relacionadas en nuestra aplicacion es mejor convertir nuestro FAB en un toolbar, pero la guia nos dice que los item que esten en la toolbar tienen que tener una relacion una con la otra y con la aplicacion y su proposito.
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsZHRMSzRFTXhoMnM/patterns_actions_fab_actions10.png 
+![IMG](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsZHRMSzRFTXhoMnM/patterns_actions_fab_actions10.png)
 
 **FAB como menu con mas opciones**
 
-https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6GnvA6rl3tYVFJuZXhVU3lMRnM/components_fab_flyouts_dont4.png
+![ImG](https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6GnvA6rl3tYVFJuZXhVU3lMRnM/components_fab_flyouts_dont4.png)
 
 Otra manera de mostrar acciones que el usuario puede usar de manera mas rapida es al momento de presionar el FAB que esta despliegue mas opciones, pero tienen que ser al menos tres opciones mas y nunca poner una opcion para desplegar mas opciones pues el usuario tardaria mas tratando de buscar lo que quiere desplegando una y otra ves las opciones, al final desintalara su aplicacion.
 
