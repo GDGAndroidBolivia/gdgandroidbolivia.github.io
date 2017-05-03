@@ -18,9 +18,6 @@ email: lizarraga.gux@gmail.com
 title: 'FAB Buttons, ¿Que puedo hacer con ellos?'
 description: Android Talk 14
 ---
-
-# FAB buttons: ¿Que puedo hacer con ellos?
-
 ## ¿Que es un FAB button y para que sirve?
 [material.io](https://material.io/guidelines/components/buttons-floating-action-button.html)
 
@@ -36,7 +33,7 @@ Su forma es un circulo flotante encima de la Interfaz,  y cambia de color al enf
 
 Entonces en resumen, un FAB es un boton muy importante dentro de una aplicacion que resalta su accion principal por la cual fue creada la app, ahora tambien la guia nos da algunas recomendaciones de que cosas debemos y no debemos hacer a la hora de implementar FABs en nuestras aplicaciones, para que de esa manera estemos en armonia con los lineamientos del material design en cuanto a una mejor UI y UX que haran que nuestra aplicacion llegue a gustar a nuestros usuarios por su elegancia y confort. 
 
-##Recomendaciones
+## Recomendaciones
 **Un FAB por pantalla**
 
 https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseVdNVnYtc0loblk/patterns_actions_fab_placement10.png
