@@ -75,6 +75,17 @@
   social-ws: 
   social-gm: cesarticona.cc92@gmail.com
 
+- member-profile: ../img/team/Bruno.jpg
+  member-name: 'Bruno Silva'
+  member-job: 'Organizer GDG Android Bolivia | Miembro activo'
+  social-fb: bruno.silva23296
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: fernando23296@gmail.com
+
 - member-profile: ../img/team/LauraC.jpg
   member-name: 'Laura Cossio'
   member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
@@ -305,17 +316,6 @@
   social-yt: 
   social-ws: 
   social-gm: arielxime8@gmail.com
-
-- member-profile: ../img/team/Bruno.jpg
-  member-name: 'Bruno Silva'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: bruno.silva23296
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: fernando23296@gmail.com
 
 - member-profile: ../img/team/AlejandroQ.jpg
   member-name: 'Freddy Quea'
