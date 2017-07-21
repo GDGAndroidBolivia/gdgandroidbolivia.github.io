@@ -119,7 +119,7 @@
   social-ws: 
   social-gm: gunarortiz@gmail.com
 
-- member-profile: ../img/team/MelissaConde.jpg
+- member-profile: ../img/team/DenisseConde.jpg
   member-name: 'Melissa Conde'
   member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
   social-fb: ashlem.luna
@@ -361,7 +361,7 @@
   social-ws: 
   social-gm: angelakalencatrunda@gmail.com
 
-- member-profile: ../img/team/Telassim Gomez.jpg
+- member-profile: ../img/team/TelassimGomez.jpg
   member-name: 'Telassim Gomez'
   member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
   social-fb: ginnolove
@@ -372,6 +372,49 @@
   social-ws: 
   social-gm: ginnolag@gmail.com
 
+- member-profile: ../img/team/AldoCachicatari.jpg
+  member-name: 'Aldo Cachicatari'
+  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  social-fb: 
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: dj718taurex@gmail.com
+
+- member-profile: ../img/team/RobertoChambi.jpg
+  member-name: 'Roberto Chambi'
+  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  social-fb: roberto.chambi.77
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: roby.mat11@gmail.com
+
+- member-profile: ../img/team/GabrielaGallardo.jpg
+  member-name: 'Gabriela Gallardo'
+  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  social-fb: gaby.gallardo.568
+  social-tw: 
+  social-gp: 
+  social-gh: GabyG21
+  social-yt: 
+  social-ws: 
+  social-gm: ggflor21@gmail.com
+
+- member-profile: ../img/team/MonicaMamani.jpg
+  member-name: 'Monica Mamani'
+  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  social-fb: monicdoll
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: mamaniapazamonica77@gmail.com
 
 - member-profile: ../img/team/Adriana.jpg
   member-name: 'Adriana Centellas'
