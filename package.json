@@ -2,7 +2,7 @@
     "name": "GDG Android Bolivia | Blog",
     "title": "GDG Android Bolivia",
     "version": "1.0.0",
-    "homepage": "http://www.gdg.androidbolivia.com",
+    "homepage": "https://gdg.androidbolivia.com",
     "author": "Gustavo Lizárraga",
     "license": "MIT",
     "devDependencies": {
