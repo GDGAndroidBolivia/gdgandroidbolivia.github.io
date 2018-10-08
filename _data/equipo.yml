@@ -1,6 +1,6 @@
 - member-profile: ../img/post/authors/gusn8.jpg
   member-name: 'Gustavo Lizárraga'
-  member-job: 'Organizer GDG Android Boliva | WTM Wonder City | Study Jams'
+  member-job: 'Organizer GDG Android Boliva | WTM Wonder City'
   social-fb: Gusn8
   social-tw: Gusn8_
   social-gp: +GustavoLizarraga
@@ -11,7 +11,7 @@
 
 - member-profile: ../img/team/Zuzet.jpg
   member-name: 'Zuzet Sanga'
-  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia | #TeamAndroidLabs'
+  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia'
   social-fb: zuzetkaren.sangamamani.94
   social-tw: 
   social-gp: 116387694440336953748?hl=en-GB
@@ -22,7 +22,7 @@
 
 - member-profile: ../img/team/Genesis.jpg
   member-name: 'Genesis Mamani'
-  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia | #TeamStudyJam' 
+  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia' 
   social-fb: GhenesisMtl
   social-tw: GhenesisZul
   social-gp: u/0/109852195509293155005
@@ -33,7 +33,7 @@
 
 - member-profile: ../img/team/Marcelo.jpg
   member-name: 'Marcelo Torrez'
-  member-job: 'Organizer Android Labs | GDG Android Bolivia'
+  member-job: 'Organizer GDG Android Bolivia'
   social-fb: profile.php?id=100010053942421
   social-tw: ElMac395
   social-gp: 116693854356220889098
@@ -44,7 +44,7 @@
 
 - member-profile: ../img/team/Remmy.jpg
   member-name: 'Remmy Calamani'
-  member-job: 'Organizer Android Labs | GDG Android Bolivia'
+  member-job: 'Organizer GDG Android Bolivia'
   social-fb: remmy.calamaniquispe
   social-tw: remmcal_remmy
   social-gp: 
@@ -53,20 +53,9 @@
   social-ws: 
   social-gm: remmcal@gmail.com
 
-- member-profile: ../img/team/Alan.jpg
-  member-name: 'Alan Ortíz'
-  member-job: 'Organizer Android Talks | GDG Android Bolivia'
-  social-fb: alandavi.ortizvargas
-  social-tw: 
-  social-gp: 
-  social-gh: ovad29
-  social-yt: 
-  social-ws: 
-  social-gm: alandaviov@gmail.com
-
 - member-profile: ../img/team/Julio.jpg
   member-name: 'Julio Cesar Ticona'
-  member-job: 'Organizer Android Talks | GDG Android Bolivia'
+  member-job: 'Organizer GDG Android Bolivia'
   social-fb: cesar.ju.37
   social-tw: 
   social-gp: 
@@ -77,7 +66,7 @@
 
 - member-profile: ../img/team/Bruno.jpg
   member-name: 'Bruno Silva'
-  member-job: 'Organizer GDG Android Bolivia | Miembro activo'
+  member-job: 'Organizer GDG Android Bolivia'
   social-fb: bruno.silva23296
   social-tw: 
   social-gp: 
@@ -86,9 +75,31 @@
   social-ws: 
   social-gm: fernando23296@gmail.com
 
+- member-profile: ../img/team/Jhenny.jpg
+  member-name: 'Jhenny Huanca'
+  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia'
+  social-fb: jhenyfer.huancaticona
+  social-tw: 
+  social-gp: 
+  social-gh: JhenyferZ
+  social-yt: 
+  social-ws: 
+  social-gm: jhenyfer.09990@gmail.com
+
+- member-profile: ../img/team/RuthTola.jpg
+  member-name: 'Ruth Tola'
+  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia'
+  social-fb: ruthfabiola.tolaacho
+  social-tw: favicita0123
+  social-gp: 
+  social-gh: RuthFaviola
+  social-yt: 
+  social-ws: 
+  social-gm: fabicita0123@gmail.com
+
 - member-profile: ../img/team/LauraA.jpg
   member-name: 'Laura Aguilar'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -99,7 +110,7 @@
 
 - member-profile: ../img/team/Gunar.jpg
   member-name: 'Gunar Ortíz'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: gunar.ortiz
   social-tw: 
   social-gp: 
@@ -110,7 +121,7 @@
 
 - member-profile: ../img/team/DenisseConde.jpg
   member-name: 'Melissa Conde'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: ashlem.luna
   social-tw: 
   social-gp: 
@@ -119,20 +130,20 @@
   social-ws: 
   social-gm: denissemel47@gmail.com
 
-- member-profile: ../img/team/AndresRivero.jpg
-  member-name: 'Andrés Rivero'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
-  social-fb: riveromiranda
-  social-tw: tr4ppy_19
-  social-gp: +AndresRiveroTr4ppY
-  social-gh: tr4ppy
+- member-profile: ../img/team/Alan.jpg
+  member-name: 'Alan Ortíz'
+  member-job: 'Miembro activo GDG/WTM'
+  social-fb: alandavi.ortizvargas
+  social-tw: 
+  social-gp: 
+  social-gh: ovad29
   social-yt: 
   social-ws: 
-  social-gm: trappy19q@gmail.com
+  social-gm: alandaviov@gmail.com
 
 - member-profile: ../img/team/Franco.jpg
   member-name: 'Franco Catacora'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: franco.catacoracabrera
   social-tw: 
   social-gp: 
@@ -141,20 +152,9 @@
   social-ws: 
   social-gm: 
 
-- member-profile: ../img/team/Vladimir.jpg
-  member-name: 'Vladimir Chacolla'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
-  social-fb: JHomuro
-  social-tw: 
-  social-gp: 
-  social-gh: IVladiZI
-  social-yt: 
-  social-ws: 
-  social-gm: vladizcc@gmail.com
-
 - member-profile: ../img/team/Danny.jpg
   member-name: 'Danny Chuquimia'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: danny.chuquimia
   social-tw: 
   social-gp: 
@@ -165,7 +165,7 @@
 
 - member-profile: ../img/team/Default.jpg
   member-name: 'Wilson Huanca'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: wilson.huanca.5
   social-tw: Wilmen83Wilson
   social-gp: 117419472627525448150
@@ -176,7 +176,7 @@
 
 - member-profile: ../img/team/Ramiro.jpg
   member-name: 'Ramiro Vargas'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: ramiro.vargassoliz.7
   social-tw: ramirovargas888
   social-gp: 
@@ -185,31 +185,9 @@
   social-ws: 
   social-gm: ramirovargassape@hotmail.com
 
-- member-profile: ../img/team/JorgeLoayza.jpg
-  member-name: 'Jorge Loayza'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
-  social-fb: koko.Dev05
-  social-tw: koko_dev
-  social-gp: 
-  social-gh: kokoDev05
-  social-yt: 
-  social-ws: 
-  social-gm: ramirovargassape@hotmail.com
-
-- member-profile: ../img/team/RamiroCastillo.jpg
-  member-name: 'Ramiro Castillo'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
-  social-fb: jcastillotarqui
-  social-tw: 
-  social-gp: 
-  social-gh: RamiroCastillo
-  social-yt: 
-  social-ws: 
-  social-gm: castilloramiro313@gmail.com
-
 - member-profile: ../img/team/AngelQuino.jpg
   member-name: 'Angel Quino'
-  member-job: '#TeamAndroidLabs | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: AngelQuinoChipana
   social-tw: 
   social-gp: 
@@ -218,42 +196,9 @@
   social-ws: 
   social-gm: dangerouslapaz@gmail.com
 
-- member-profile: ../img/team/Sheyla.jpg
-  member-name: 'Sheyla Zamorano'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: kyublip
-  social-yt: 
-  social-ws: 
-  social-gm: shlzamoran@gmail.com
-
-- member-profile: ../img/team/Samir.jpg
-  member-name: 'Samir Simon'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: nekoiblip.blip
-  social-tw: neblip
-  social-gp: 
-  social-gh: Neblip
-  social-yt: 
-  social-ws: 
-  social-gm: neblip222@gmail.com
-
-- member-profile: ../img/team/JoseLuis.jpg
-  member-name: 'Jose Luis Terrazas'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: joseluis.terrazas.10
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: joseluistb97@gmail.com
-
 - member-profile: ../img/team/Laskar.jpg
   member-name: 'Laskar Quisbert'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: profile.php?id=100009570286653
   social-tw: 
   social-gp: 
@@ -262,75 +207,9 @@
   social-ws: 
   social-gm: liquisbert4@gmail.com
 
-- member-profile: ../img/team/AliciaEstrada.jpg
-  member-name: 'Alicia Estrada'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: aliciahec@gmail.com
-
-- member-profile: ../img/team/MiriamRios.jpg
-  member-name: 'Miriam Rios'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: miam.riscallisaya
-  social-tw: 
-  social-gp: 
-  social-gh: miriamrios
-  social-yt: 
-  social-ws: 
-  social-gm: mrrios51@gmail.com
-
-- member-profile: ../img/team/Default.jpg
-  member-name: 'Odilia Calle'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: kalen758@gmail.com
-
-- member-profile: ../img/team/NoemiMamani.jpg
-  member-name: 'Noemi Mamani'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: noemi.mamanichavez.9
-  social-tw: noemi_stefany16
-  social-gp: 
-  social-gh: noemimamani
-  social-yt: 
-  social-ws: 
-  social-gm: noemiinfo45@gmail.com
-
-- member-profile: ../img/team/Default.jpg
-  member-name: 'Angela Calle'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: Angela693
-  social-yt: 
-  social-ws: 
-  social-gm: angelakalencatrunda@gmail.com
-
-- member-profile: ../img/team/TelassimGomez.jpg
-  member-name: 'Telassim Gomez'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: ginnolove
-  social-tw: 
-  social-gp: 
-  social-gh: Ginnola
-  social-yt: 
-  social-ws: 
-  social-gm: ginnolag@gmail.com
-
 - member-profile: ../img/team/RobertoChambi.jpg
   member-name: 'Roberto Chambi'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: roberto.chambi.77
   social-tw: 
   social-gp: 
@@ -339,31 +218,9 @@
   social-ws: 
   social-gm: roby.mat11@gmail.com
 
-- member-profile: ../img/team/GabrielaGallardo.jpg
-  member-name: 'Gabriela Gallardo'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: gaby.gallardo.568
-  social-tw: 
-  social-gp: 
-  social-gh: GabyG21
-  social-yt: 
-  social-ws: 
-  social-gm: ggflor21@gmail.com
-
-- member-profile: ../img/team/MonicaMamani.jpg
-  member-name: 'Monica Mamani'
-  member-job: '#TeamStudyJam | Miembro activo GDG/WTM'
-  social-fb: monicdoll
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: mamaniapazamonica77@gmail.com
-
 - member-profile: ../img/team/Adriana.jpg
   member-name: 'Adriana Centellas'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: Adriana.centellas1
   social-tw: 
   social-gp: 
@@ -374,7 +231,7 @@
 
 - member-profile: ../img/team/Belen.jpg
   member-name: 'María Belén Poma'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -383,20 +240,9 @@
   social-ws: 
   social-gm: belupoga@gmail.com
 
-- member-profile: ../img/team/Jhenny.jpg
-  member-name: 'Jhenny Huanca'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
-  social-fb: jhenyfer.huancaticona
-  social-tw: 
-  social-gp: 
-  social-gh: JhenyferZ
-  social-yt: 
-  social-ws: 
-  social-gm: jhenyfer.09990@gmail.com
-
 - member-profile: ../img/team/Marisabel.jpg
   member-name: 'Marisabel Condori'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: mari.condori.796
   social-tw: 
   social-gp: 
@@ -405,20 +251,9 @@
   social-ws: 
   social-gm: mari.17ymy@gmail.com
 
-- member-profile: ../img/team/Alberth.jpg
-  member-name: 'Alberth Condori'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: alberthbernarth75@gmail.com
-
 - member-profile: ../img/team/AlejandroM.jpg
   member-name: 'Alejandro Mancilla'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: alejandro.mancilla.125?ref=bookmarks
   social-tw: 
   social-gp: 
@@ -429,7 +264,7 @@
 
 - member-profile: ../img/team/Angel.jpg
   member-name: 'Angel Camargo'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -438,20 +273,9 @@
   social-ws: 
   social-gm: arielxime8@gmail.com
 
-- member-profile: ../img/team/AlejandroQ.jpg
-  member-name: 'Freddy Quea'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: alejandroquea25@gmail.com
-
 - member-profile: ../img/team/Jorge.jpg
   member-name: 'Jorge Callisaya'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
+  member-job: 'Miembro activo GDG'
   social-fb: jorge.callisaya
   social-tw: 
   social-gp: 
@@ -460,31 +284,9 @@
   social-ws: 
   social-gm: jcelbarto@gmail.com
 
-- member-profile: ../img/team/Jose.jpg
-  member-name: 'José Augusto Lopez'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG/WTM'
-  social-fb: augusto.bet4
-  social-tw: 
-  social-gp: 
-  social-gh: AugustoBet4
-  social-yt: 
-  social-ws: 
-  social-gm: augusto.bet4@gmail.com
-
-- member-profile: ../img/team/Luis.jpg
-  member-name: 'Luis Illanes'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: luis.illanes.7
-  social-tw: TheProdigyK
-  social-gp: u/0/113638427032263805869
-  social-gh: 
-  social-yt: TPKreations
-  social-ws: 
-  social-gm: luisale0410@gmail.com
-
 - member-profile: ../img/team/Nimrod.jpg
   member-name: 'Nimrod Rodríguez'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
+  member-job: 'Miembro activo GDG'
   social-fb: nimrod.rodriguez.5
   social-tw: 
   social-gp: 
@@ -495,7 +297,7 @@
 
 - member-profile: ../img/team/PedroArteaga.jpg
   member-name: 'Pedro Arteaga'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
+  member-job: 'Miembro activo GDG'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -506,7 +308,7 @@
 
 - member-profile: ../img/team/CarlaAlejo.jpg
   member-name: 'Carla Alejo'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: carla.alejo.12
   social-tw: 
   social-gp: 
@@ -515,42 +317,9 @@
   social-ws: 
   social-gm: carla555eagle@gmail.com
 
-- member-profile: ../img/team/BladimirCalsina.jpg
-  member-name: 'Bladimir Calcina'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: bladimir.c.choque
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: bladimir.calcina@gmail.com
-
-- member-profile: ../img/team/JosueLemus.jpg
-  member-name: 'Josué Lemus'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: josueunueve@gmail.com
-
-- member-profile: ../img/team/RuthTola.jpg
-  member-name: 'Ruth Tola'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: ruthfabiola.tolaacho
-  social-tw: favicita0123
-  social-gp: 
-  social-gh: RuthFaviola
-  social-yt: 
-  social-ws: 
-  social-gm: fabicita0123@gmail.com
-
 - member-profile: ../img/team/NildaQuispe.jpg
   member-name: 'Mariel Quispe'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -559,20 +328,9 @@
   social-ws: 
   social-gm: marielita.nil123@gmail.com
 
-- member-profile: ../img/team/Default.jpg
-  member-name: 'Lizeth Alanoca'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: skarlet.Anly@gmail.com
-
 - member-profile: ../img/team/RocioZelada.jpg
   member-name: 'Rocio Zelada'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: 
   social-tw: 
   social-gp: 
@@ -580,14 +338,3 @@
   social-yt: 
   social-ws: 
   social-gm: lorenrocioz@gmail.com
-
-- member-profile: ../img/team/LeonardoMartinez.jpg
-  member-name: 'Leonardo Martinez'
-  member-job: '#TeamAndroidTalks | Miembro activo GDG'
-  social-fb: 
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: leo171998@gmail.com
