@@ -42,17 +42,6 @@
   social-ws: 
   social-gm: elmac395@gmail.com
 
-- member-profile: ../img/team/Remmy.jpg
-  member-name: 'Remmy Calamani'
-  member-job: 'Organizer GDG Android Bolivia'
-  social-fb: remmy.calamaniquispe
-  social-tw: remmcal_remmy
-  social-gp: 
-  social-gh: remmcal
-  social-yt: 
-  social-ws: 
-  social-gm: remmcal@gmail.com
-
 - member-profile: ../img/team/Julio.jpg
   member-name: 'Julio Cesar Ticona'
   member-job: 'Organizer GDG Android Bolivia'
@@ -86,9 +75,42 @@
   social-ws: 
   social-gm: jhenyfer.09990@gmail.com
 
+- member-profile: ../img/team/Franco.jpg
+  member-name: 'Franco Catacora'
+  member-job: 'Miembro activo GDG'
+  social-fb: franco.catacoracabrera
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: 
+
+- member-profile: ../img/team/Danny.jpg
+  member-name: 'Danny Chuquimia'
+  member-job: 'Miembro activo GDG'
+  social-fb: danny.chuquimia
+  social-tw: 
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: dannychuquimia@gmail.com
+
+- member-profile: ../img/team/Default.jpg
+  member-name: 'Wilson Huanca'
+  member-job: 'Miembro activo GDG'
+  social-fb: wilson.huanca.5
+  social-tw: Wilmen83Wilson
+  social-gp: 117419472627525448150
+  social-gh: wallas83
+  social-yt: channel/UChoKvQDTkDgtNBBh3tWx3QA
+  social-ws: 
+  social-gm: whuanca06@gmail.com
+
 - member-profile: ../img/team/RuthTola.jpg
   member-name: 'Ruth Tola'
-  member-job: 'Organizer WTM Wonder City | GDG Android Bolivia'
+  member-job: 'Miembro activo GDG/WTM'
   social-fb: ruthfabiola.tolaacho
   social-tw: favicita0123
   social-gp: 
@@ -96,6 +118,17 @@
   social-yt: 
   social-ws: 
   social-gm: fabicita0123@gmail.com
+
+- member-profile: ../img/team/Ramiro.jpg
+  member-name: 'Ramiro Vargas'
+  member-job: 'Miembro activo GDG'
+  social-fb: ramiro.vargassoliz.7
+  social-tw: ramirovargas888
+  social-gp: 
+  social-gh: 
+  social-yt: 
+  social-ws: 
+  social-gm: ramirovargassape@hotmail.com
 
 - member-profile: ../img/team/LauraA.jpg
   member-name: 'Laura Aguilar'
@@ -141,50 +174,6 @@
   social-ws: 
   social-gm: alandaviov@gmail.com
 
-- member-profile: ../img/team/Franco.jpg
-  member-name: 'Franco Catacora'
-  member-job: 'Miembro activo GDG'
-  social-fb: franco.catacoracabrera
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: 
-
-- member-profile: ../img/team/Danny.jpg
-  member-name: 'Danny Chuquimia'
-  member-job: 'Miembro activo GDG'
-  social-fb: danny.chuquimia
-  social-tw: 
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: dannychuquimia@gmail.com
-
-- member-profile: ../img/team/Default.jpg
-  member-name: 'Wilson Huanca'
-  member-job: 'Miembro activo GDG'
-  social-fb: wilson.huanca.5
-  social-tw: Wilmen83Wilson
-  social-gp: 117419472627525448150
-  social-gh: wallas83
-  social-yt: channel/UChoKvQDTkDgtNBBh3tWx3QA
-  social-ws: 
-  social-gm: whuanca06@gmail.com
-
-- member-profile: ../img/team/Ramiro.jpg
-  member-name: 'Ramiro Vargas'
-  member-job: 'Miembro activo GDG'
-  social-fb: ramiro.vargassoliz.7
-  social-tw: ramirovargas888
-  social-gp: 
-  social-gh: 
-  social-yt: 
-  social-ws: 
-  social-gm: ramirovargassape@hotmail.com
-
 - member-profile: ../img/team/AngelQuino.jpg
   member-name: 'Angel Quino'
   member-job: 'Miembro activo GDG'
@@ -195,6 +184,17 @@
   social-yt: 
   social-ws: 
   social-gm: dangerouslapaz@gmail.com
+
+  - member-profile: ../img/team/Remmy.jpg
+    member-name: 'Remmy Calamani'
+    member-job: 'Miembro activo GDG'
+    social-fb: remmy.calamaniquispe
+    social-tw: remmcal_remmy
+    social-gp: 
+    social-gh: remmcal
+    social-yt: 
+    social-ws: 
+    social-gm: remmcal@gmail.com
 
 - member-profile: ../img/team/Laskar.jpg
   member-name: 'Laskar Quisbert'
