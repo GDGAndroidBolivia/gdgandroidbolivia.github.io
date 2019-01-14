@@ -186,15 +186,15 @@
   social-gm: dangerouslapaz@gmail.com
 
 - member-profile: ../img/team/Remmy.jpg
-    member-name: 'Remmy Calamani'
-    member-job: 'Miembro activo GDG'
-    social-fb: remmy.calamaniquispe
-    social-tw: remmcal_remmy
-    social-gp: 
-    social-gh: remmcal
-    social-yt: 
-    social-ws: 
-    social-gm: remmcal@gmail.com
+  member-name: 'Remmy Calamani'
+  member-job: 'Miembro activo GDG'
+  social-fb: remmy.calamaniquispe
+  social-tw: remmcal_remmy
+  social-gp: 
+  social-gh: remmcal
+  social-yt: 
+  social-ws: 
+  social-gm: remmcal@gmail.com
 
 - member-profile: ../img/team/Laskar.jpg
   member-name: 'Laskar Quisbert'
